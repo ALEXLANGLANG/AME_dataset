@@ -1,0 +1,1604 @@
+outcome,age,gender,HHnumber,nonHHf2f,sixft,HHwork,childrenf2f,largeGroups,handwashing,socialdistance,symptoms,college,latino,race,treated
+Very Good,38,Female,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,50,Female,3,0,NA,No,NA,1,9,Yes,No,No,No,White,TRUE
+Good,56,Female,2,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,52,Female,3,9,9,Yes,Yes,0,9,Yes,No,No,No,White,TRUE
+Very Good,58,Female,2,1,1,No,NA,0,9,Yes,No,Yes,Yes,NA,FALSE
+Good,54,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,54,Male,3,4,4,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,54,Female,2,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,38,Male,1,9,9,Unsure,NA,0,9,Yes,No,No,No,White,NA
+Poor,26,Female,3,1,1,No,NA,0,9,Yes,Unsure,No,No,White,TRUE
+Fair,50,Male,5,2,2,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,57,Female,3,2,1,No,NA,8,9,Yes,No,NA,NA,NA,TRUE
+Good,55,Male,2,1,1,No,NA,1,9,Yes,No,No,No,Black,NA
+Fair,55,Female,3,5,3,Yes,NA,2,8,Yes,No,No,No,White,NA
+Very Good,29,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,54,Female,2,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,35,Female,4,3,1,Yes,No,0,9,Yes,No,No,No,White,FALSE
+Good,58,Male,2,1,0,NA,NA,0,9,Yes,No,No,No,White,NA
+Fair,51,Female,NA,3,3,Unsure,No,9,9,Yes,No,No,No,Black,FALSE
+Very Good,55,Male,4,2,0,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,53,Female,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,49,Male,1,6,2,Yes,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,26,Female,2,9,6,Yes,NA,NA,9,Yes,Unsure,No,Yes,NA,NA
+Good,53,Male,1,0,NA,No,NA,0,4,Yes,No,No,No,Black,NA
+Good,51,Female,3,4,4,No,NA,0,9,Yes,No,NA,NA,NA,TRUE
+Good,58,Male,3,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Fair,54,Male,2,1,0,Yes,NA,0,9,Yes,Yes,No,No,White,TRUE
+Good,43,Female,4,2,2,Yes,No,1,NA,NA,NA,NA,NA,NA,TRUE
+Fair,59,Female,5,3,3,No,NA,0,2,Yes,No,No,No,White,FALSE
+Very Good,47,Male,5,9,9,Yes,Yes,2,2,No,No,Yes,No,White,TRUE
+Very Good,58,Female,1,0,NA,Yes,No,1,1,No,No,No,No,Black,FALSE
+Very Good,55,Female,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,49,Female,2,6,0,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,23,Female,2,0,NA,Yes,NA,0,9,Yes,No,No,No,White,NA
+Good,55,Male,3,2,2,No,NA,0,9,Yes,No,Yes,No,White,NA
+Good,59,Male,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,48,Female,3,2,1,No,Yes,0,9,Yes,No,No,No,White,FALSE
+Good,58,Female,2,0,NA,Yes,NA,0,4,Yes,Unsure,Yes,No,White,TRUE
+Good,45,Female,4,4,4,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,49,Female,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,44,Female,3,4,4,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,59,Female,2,9,3,Yes,NA,9,9,Yes,No,No,No,White,TRUE
+Fair,59,Female,1,9,9,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,51,Female,5,0,NA,Yes,NA,4,9,Yes,Unsure,Yes,No,Black,FALSE
+Very Good,53,Female,2,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,59,Female,3,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,59,Female,3,2,1,No,NA,0,9,Yes,No,No,No,White,NA
+Good,50,Female,5,0,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,48,Female,1,1,1,No,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,50,Female,2,0,NA,No,Yes,1,9,Yes,No,No,No,White,TRUE
+Good,54,Female,2,2,0,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,42,Female,3,1,1,Yes,No,9,9,Yes,No,Yes,No,White,TRUE
+Good,41,Male,3,5,5,Yes,No,7,9,Yes,No,No,No,White,NA
+Poor,49,Male,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,56,Female,1,1,0,Yes,NA,1,9,No,No,No,No,White,NA
+Fair,57,Female,2,5,3,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,56,Female,3,3,3,No,Yes,0,9,Yes,No,No,No,White,TRUE
+Very Good,55,Female,5,0,NA,No,No,0,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,20,Female,1,1,1,Yes,NA,1,9,Yes,No,Yes,No,White,NA
+Good,57,Female,3,4,3,Yes,NA,9,9,Yes,No,No,No,White,FALSE
+Poor,44,Male,1,0,NA,No,NA,0,9,Yes,NA,NA,NA,NA,TRUE
+Very Good,57,Male,3,4,4,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,51,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,59,Female,1,5,5,No,NA,2,6,Yes,No,No,No,Black,NA
+Very Good,49,Female,4,4,4,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,56,Male,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,54,Female,3,0,NA,Yes,No,0,6,Yes,No,Yes,No,Black,FALSE
+Good,59,Female,4,2,2,No,NA,1,NA,NA,NA,NA,NA,NA,TRUE
+Poor,43,Female,4,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,39,Female,4,0,NA,No,NA,0,9,Yes,No,No,No,Black,FALSE
+Good,49,Male,3,0,NA,Yes,NA,0,8,Yes,No,Yes,Yes,NA,TRUE
+Good,55,Female,4,4,4,Yes,NA,0,9,Yes,No,Yes,No,Another race,TRUE
+Very Good,34,Female,5,1,1,No,No,1,8,Yes,No,Yes,No,White,NA
+Fair,45,Male,4,0,NA,No,No,0,5,Yes,No,Yes,No,Asian,NA
+Very Good,59,Female,2,3,3,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,59,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,55,Female,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,46,Female,9,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Poor,57,Male,2,1,1,No,NA,2,5,Yes,No,Yes,No,Asian,NA
+Very Good,33,Female,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,59,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,58,Female,2,1,1,Yes,NA,1,9,Yes,No,No,No,White,TRUE
+Very Good,55,Male,4,0,NA,No,Yes,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,51,Male,5,9,9,Yes,Yes,0,9,Yes,No,Yes,No,White,FALSE
+Good,58,Female,2,5,5,Yes,NA,6,9,Yes,No,No,No,White,TRUE
+Fair,46,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,58,Male,3,6,2,Yes,No,1,9,Yes,No,No,No,White,TRUE
+Good,38,Male,2,5,5,No,NA,0,6,Yes,No,Yes,No,White,FALSE
+Poor,54,Female,3,2,0,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,52,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,33,Female,6,6,6,Yes,No,1,9,Yes,Unsure,Yes,No,Black,FALSE
+Good,57,Male,2,0,NA,No,NA,0,6,Yes,No,Yes,No,White,FALSE
+Good,55,Female,3,9,9,No,NA,1,9,Yes,No,Yes,No,Black,FALSE
+Good,58,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,58,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,55,Female,3,3,1,Yes,NA,0,0,Yes,Yes,Yes,No,White,TRUE
+Very Good,57,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,54,Male,4,3,3,No,NA,0,9,Yes,No,Yes,No,Asian,TRUE
+Fair,44,Female,5,9,0,Yes,NA,0,9,Yes,No,No,No,White,NA
+Poor,44,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,53,Female,4,9,4,Yes,Yes,0,4,Yes,No,Yes,No,Black,FALSE
+Very Good,53,Male,2,2,2,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,40,Male,4,3,3,Yes,No,0,4,Yes,No,Yes,No,White,FALSE
+Very Good,40,Female,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Poor,55,Female,9,0,NA,Yes,NA,0,8,Yes,Yes,Yes,No,Black,FALSE
+Good,52,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,47,Female,1,9,9,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Fair,63,Female,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,35,Female,4,3,3,No,No,0,9,Yes,No,Yes,No,White,TRUE
+Fair,70,Male,1,4,4,No,NA,2,9,Yes,No,Yes,No,Black,NA
+5,87,Female,2,1,1,No,NA,1,6,Yes,No,Yes,No,White,TRUE
+Good,76,Female,2,2,2,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,80,Female,9,9,0,No,NA,3,9,Yes,No,Yes,No,NA,FALSE
+Good,45,Female,3,2,2,No,No,0,9,Yes,No,No,No,White,TRUE
+Good,72,Female,2,1,1,No,NA,9,8,Yes,No,Yes,No,White,TRUE
+Very Good,41,Female,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,76,Female,2,2,2,No,NA,1,NA,NA,NA,NA,NA,NA,TRUE
+Good,76,Female,6,2,2,No,No,0,9,Yes,No,No,No,Black,FALSE
+Very Good,76,Female,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,75,Female,3,9,9,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,77,Female,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,81,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,80,Male,2,5,5,No,NA,0,8,Yes,No,No,No,White,NA
+Good,76,Female,1,1,1,No,NA,0,6,Yes,No,No,No,White,FALSE
+Good,59,Female,2,1,1,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,93,Female,1,1,1,No,NA,NA,9,Yes,No,No,No,White,TRUE
+Fair,84,Female,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,82,Female,2,2,2,No,NA,1,3,Yes,No,No,No,Black,FALSE
+Fair,60,Female,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,77,Male,2,3,9,No,NA,1,9,Yes,No,No,No,Black,NA
+Good,70,Male,6,2,2,Yes,No,1,8,Yes,No,No,No,Black,FALSE
+Good,66,Female,2,1,1,No,NA,3,6,Yes,No,NA,NA,NA,TRUE
+Fair,53,Female,2,3,3,Yes,NA,1,9,Yes,No,No,No,Black,FALSE
+Very Good,77,Female,2,9,6,Yes,NA,1,9,Yes,No,No,No,White,FALSE
+Good,45,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,85,Male,2,9,0,Unsure,NA,0,9,Yes,No,No,No,White,FALSE
+Good,74,Female,1,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,60,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,76,Male,2,8,1,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,77,Female,2,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,39,Male,5,1,0,Yes,No,0,6,Yes,Yes,No,No,White,TRUE
+Good,84,Female,1,9,1,No,NA,NA,9,Yes,No,No,No,White,TRUE
+Fair,68,Male,2,9,9,No,NA,1,7,Yes,No,Yes,No,White,TRUE
+Very Good,72,Male,2,1,1,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Poor,26,Male,4,8,0,Yes,NA,0,3,Yes,No,Yes,No,White,NA
+5,73,Female,2,1,1,Yes,NA,1,5,Yes,No,No,No,White,FALSE
+Good,87,Female,4,0,NA,No,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,65,Female,2,4,4,No,NA,0,9,Yes,No,No,No,White,NA
+Good,69,Female,NA,1,0,No,NA,1,9,Yes,No,No,No,White,TRUE
+Good,77,Male,2,0,NA,No,NA,0,3,Yes,No,Yes,No,White,TRUE
+Poor,77,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,74,Female,7,2,1,No,No,1,9,Yes,No,No,No,White,FALSE
+Good,80,Male,1,1,1,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,71,Female,1,0,NA,Yes,NA,0,8,Yes,No,Yes,No,Black,FALSE
+Very Good,76,Female,2,2,2,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Fair,50,Female,4,9,9,Yes,No,9,9,Yes,No,No,No,White,TRUE
+Good,81,Male,2,9,9,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,58,Female,4,4,4,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Very Good,66,Female,3,0,NA,No,NA,0,9,Yes,No,No,No,Black,FALSE
+Fair,80,Female,2,4,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,87,Female,1,1,1,No,NA,0,5,Yes,No,Yes,No,White,NA
+5,91,Male,9,9,0,Yes,NA,9,0,No,No,No,No,Another race,NA
+Fair,74,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,NA,FALSE
+Poor,71,Male,2,1,1,No,NA,0,5,Yes,No,No,No,White,TRUE
+Good,82,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Poor,38,Female,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,72,Female,3,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Poor,70,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,74,Male,6,1,1,No,No,1,9,Yes,No,NA,NA,NA,FALSE
+Fair,70,Male,2,0,NA,No,NA,0,5,Yes,No,No,No,White,NA
+Good,80,Male,1,0,NA,No,NA,NA,9,Yes,No,Yes,No,White,NA
+Good,82,Male,2,1,1,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,78,Female,2,3,2,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,78,Male,2,7,7,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,44,Female,2,1,0,No,NA,1,5,Yes,No,Yes,No,White,NA
+Very Good,86,Female,1,0,NA,No,NA,1,9,Yes,No,No,No,White,TRUE
+Fair,87,Male,2,2,2,No,NA,1,9,Yes,No,No,No,White,TRUE
+Good,70,Female,3,1,1,No,NA,1,9,Yes,No,No,No,Black,FALSE
+Very Good,47,Female,4,1,0,Yes,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,58,Male,2,5,5,Yes,NA,0,6,Yes,No,No,No,White,TRUE
+Good,79,Male,1,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,60,Female,3,8,5,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,78,Female,1,0,NA,No,NA,NA,9,Yes,No,No,No,Black,FALSE
+Poor,74,Male,2,9,9,Unsure,NA,9,9,Yes,No,No,No,White,TRUE
+Poor,57,Male,4,9,9,Yes,Unsure,2,9,Yes,No,No,No,White,TRUE
+Good,83,Male,2,9,9,No,NA,1,6,Yes,No,No,No,White,TRUE
+Good,60,Female,1,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,54,Male,2,3,1,Yes,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,69,Male,1,2,1,No,NA,0,4,No,No,No,No,White,TRUE
+Good,85,Female,7,0,NA,No,No,0,9,Yes,No,Yes,No,White,TRUE
+Fair,87,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,NA
+Very Good,47,Female,4,2,1,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Good,77,Male,3,1,1,No,NA,2,NA,NA,NA,NA,NA,NA,FALSE
+Fair,82,Female,1,1,1,No,NA,1,2,No,No,No,No,White,FALSE
+Good,70,Female,2,3,1,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,68,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Poor,78,Female,1,1,1,No,NA,0,4,Yes,No,No,No,White,FALSE
+Very Good,82,Female,1,0,NA,No,NA,2,9,Yes,No,Yes,No,Black,TRUE
+Good,88,Female,1,0,NA,No,NA,0,5,Yes,No,No,No,White,TRUE
+Good,72,Female,2,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,77,Female,2,0,NA,No,NA,3,6,Yes,No,Yes,No,White,FALSE
+Good,85,Male,2,NA,NA,NA,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,68,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,82,Female,1,9,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,70,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Poor,57,Female,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,72,Female,2,7,5,No,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Good,64,Male,4,0,NA,Yes,NA,0,8,Yes,No,Yes,No,White,FALSE
+Fair,56,Female,2,3,2,No,NA,2,5,Yes,No,No,No,White,NA
+Very Good,70,Female,2,6,4,No,NA,0,6,Yes,No,Yes,No,White,FALSE
+Good,63,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,74,Male,1,3,3,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,96,Male,1,9,1,Unsure,NA,9,9,No,Yes,Yes,No,White,TRUE
+Good,72,Male,2,9,9,Yes,NA,2,9,Yes,No,No,No,White,NA
+Good,78,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,83,Female,2,9,0,Yes,NA,1,4,Yes,No,No,No,Black,FALSE
+Very Good,65,Male,9,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,90,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,60,Female,4,0,NA,Yes,NA,0,5,Yes,No,Yes,No,Black,FALSE
+Very Good,92,Female,1,6,4,No,NA,0,6,Yes,No,Yes,No,White,FALSE
+Good,87,Female,2,1,1,No,NA,1,NA,NA,NA,NA,NA,NA,FALSE
+Good,69,Female,NA,2,2,No,NA,0,4,Yes,No,Yes,No,Black,FALSE
+Good,78,Female,1,9,9,No,NA,9,9,Yes,No,No,No,White,FALSE
+Good,69,Female,2,0,NA,Unsure,NA,9,9,Yes,No,No,No,White,FALSE
+Good,64,Female,3,1,4,Yes,No,1,9,Yes,No,No,No,Black,FALSE
+Very Good,50,Male,4,1,1,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,81,Male,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,81,Female,1,3,0,No,NA,0,9,Yes,No,Yes,Yes,NA,FALSE
+Very Good,51,Female,4,9,0,Yes,No,0,9,Yes,No,Yes,No,White,FALSE
+Poor,73,Female,2,4,4,No,NA,9,NA,NA,NA,NA,NA,NA,TRUE
+Good,84,Female,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,61,Female,2,4,4,No,NA,0,4,Yes,No,No,No,White,TRUE
+Good,84,Male,1,1,0,No,NA,0,3,Yes,No,Yes,No,White,TRUE
+Good,65,Female,2,1,0,No,NA,0,7,Yes,No,No,No,Black,FALSE
+Good,67,Male,2,9,9,Yes,NA,2,9,Yes,No,No,No,White,TRUE
+Good,89,Male,1,NA,NA,NA,0,0,9,Yes,No,No,No,Black,FALSE
+Fair,79,Male,9,1,1,NA,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Fair,85,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,68,Male,2,1,1,No,NA,0,9,Yes,No,No,Yes,NA,FALSE
+Good,73,Female,5,0,NA,Yes,No,0,9,Yes,No,No,No,Black,NA
+Good,80,Male,2,4,2,No,NA,1,7,Yes,NA,NA,NA,NA,TRUE
+Good,72,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,Black,NA
+Fair,79,Female,2,3,0,No,NA,0,9,Yes,No,No,No,Black,FALSE
+Very Good,66,Male,1,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,63,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,82,Male,1,3,3,No,NA,3,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,69,Male,NA,NA,NA,NA,0,2,9,Yes,No,No,No,Black,FALSE
+Good,63,Male,2,0,NA,No,NA,0,6,Yes,No,No,No,Black,FALSE
+Poor,85,Male,2,0,NA,No,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Poor,91,Female,1,4,2,No,NA,0,9,Yes,Yes,No,No,White,FALSE
+Fair,85,Female,3,1,0,No,NA,0,9,Yes,No,No,No,NA,FALSE
+Good,53,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Poor,55,Female,4,1,1,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,73,Female,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,66,Female,1,0,NA,Yes,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Good,63,Female,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,65,Female,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,47,Male,4,3,0,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,83,Female,2,1,0,No,NA,0,9,Yes,No,No,No,White,NA
+Very Good,58,Male,4,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,68,Male,4,2,1,No,No,0,5,Yes,No,Yes,No,White,TRUE
+Fair,78,Female,1,1,1,Yes,NA,1,9,Yes,No,No,No,White,FALSE
+Good,76,Female,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,55,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,79,Male,2,1,1,No,NA,0,6,Yes,No,No,No,White,TRUE
+Very Good,70,Male,2,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+5,86,Female,1,0,NA,No,NA,0,7,Yes,No,No,No,White,TRUE
+Very Good,68,Male,3,3,3,No,NA,5,9,Yes,No,Yes,No,White,TRUE
+Very Good,75,Female,3,0,NA,Yes,No,0,9,Yes,No,No,No,White,FALSE
+Good,62,Male,2,9,9,No,NA,9,9,Yes,No,No,No,Black,FALSE
+Fair,69,Female,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,80,Female,2,1,0,No,NA,0,9,Yes,No,No,No,White,FALSE
+Fair,80,Female,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,75,Male,2,3,0,No,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,83,Female,2,4,3,No,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Fair,65,Female,2,2,2,No,NA,0,4,Yes,No,No,No,Black,FALSE
+Fair,79,Female,1,1,0,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,81,Female,1,0,NA,No,NA,NA,9,Yes,No,Yes,No,White,TRUE
+Good,59,Female,3,5,3,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,70,Female,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,55,Female,4,9,9,No,No,0,7,Yes,No,Yes,No,White,FALSE
+Good,78,Female,1,3,0,Unsure,NA,9,5,Yes,No,No,No,NA,TRUE
+Fair,76,Female,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Poor,60,Female,1,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,77,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Poor,99,Female,1,1,1,No,NA,9,1,No,Yes,Yes,No,Another race,NA
+Good,44,Female,2,9,9,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,67,Female,1,1,1,No,NA,1,NA,NA,NA,NA,NA,NA,FALSE
+Fair,55,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,90,Male,2,0,NA,No,NA,9,9,Yes,No,No,No,White,TRUE
+Good,77,Male,1,5,4,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,64,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,65,Female,2,3,2,No,NA,0,6,Yes,No,Yes,No,Black,FALSE
+Good,50,Male,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,62,Female,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,81,Male,1,1,9,No,NA,0,9,Yes,No,Yes,No,White,NA
+Good,58,Female,2,0,NA,Yes,No,0,9,Yes,Yes,No,No,NA,TRUE
+Good,75,Female,1,2,0,No,NA,1,9,Yes,No,No,No,White,TRUE
+Very Good,62,Male,2,1,0,No,NA,0,8,Yes,No,No,No,White,TRUE
+5,70,Male,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,75,Male,3,3,2,No,NA,9,9,Yes,No,No,No,Black,FALSE
+Fair,56,Female,1,1,0,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,75,Female,2,0,NA,No,NA,0,5,Yes,No,Yes,No,White,FALSE
+Good,58,Female,1,0,NA,No,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,57,Female,4,1,1,Yes,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Good,88,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,78,Female,1,1,1,NA,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Good,67,Female,2,5,1,No,NA,0,9,Yes,No,No,No,Black,NA
+Good,63,Female,1,0,NA,No,NA,0,9,No,No,No,No,White,NA
+Fair,57,Female,3,9,0,No,No,2,NA,NA,NA,NA,NA,NA,TRUE
+Fair,84,Female,2,1,1,No,NA,0,9,No,Yes,No,No,White,FALSE
+Good,59,Female,2,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,73,Female,3,9,9,Yes,Yes,4,9,Yes,No,No,No,White,TRUE
+Very Good,93,Female,3,2,2,Yes,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,85,Female,1,0,NA,No,NA,0,9,No,No,No,No,White,TRUE
+Good,40,Male,4,9,5,Yes,Yes,0,5,Yes,No,No,No,White,TRUE
+Very Good,68,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,71,Female,1,2,1,No,NA,1,9,Yes,No,No,No,White,FALSE
+Good,63,Female,4,0,NA,No,No,3,5,Yes,No,No,No,White,TRUE
+Good,63,Male,2,0,NA,No,NA,0,4,Yes,No,Yes,No,White,NA
+Very Good,79,Female,1,3,0,No,NA,2,9,Yes,No,No,No,White,TRUE
+Very Good,86,Female,4,1,2,Yes,No,1,9,Yes,No,No,No,White,FALSE
+Good,45,Female,4,8,4,Yes,No,1,9,Yes,No,NA,NA,NA,TRUE
+Very Good,81,Male,2,9,0,No,NA,0,9,Yes,No,No,No,White,TRUE
+Poor,67,Female,9,1,1,No,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Good,85,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,85,Male,1,0,NA,No,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,65,Male,2,2,3,Unsure,NA,0,9,No,No,No,No,Black,FALSE
+Good,56,Female,2,3,0,Yes,NA,2,9,Yes,No,No,No,White,TRUE
+Good,70,Female,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,83,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,46,Female,2,9,7,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,71,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,74,Female,2,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,67,Female,1,2,2,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,62,Female,3,9,9,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,85,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,52,Female,5,1,1,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Fair,84,Male,2,2,2,No,NA,0,5,Yes,No,Yes,No,White,TRUE
+Very Good,76,Female,2,0,NA,No,NA,0,8,Yes,No,Yes,No,White,FALSE
+Good,65,Female,4,0,NA,Yes,No,0,9,Yes,No,No,No,Black,FALSE
+Good,66,Female,2,2,1,Yes,NA,1,9,Yes,Yes,Yes,No,White,FALSE
+Very Good,85,Male,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,47,Female,3,9,9,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Poor,59,Male,6,4,3,Yes,NA,5,2,Yes,No,No,Yes,NA,NA
+Good,72,Male,2,0,NA,No,NA,0,8,Yes,No,Yes,No,White,FALSE
+Good,60,Female,2,9,9,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,57,Female,2,1,1,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Very Good,54,Female,3,1,1,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,82,Female,4,2,2,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,81,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,66,Female,8,9,9,Yes,No,9,9,Yes,No,Yes,No,Another race,FALSE
+Good,82,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,77,Female,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,80,Male,2,9,1,No,NA,9,9,Yes,No,NA,NA,NA,TRUE
+Very Good,58,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,56,Female,3,0,NA,No,NA,0,9,Yes,No,Yes,Yes,NA,FALSE
+Good,78,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,60,Female,2,0,NA,Yes,NA,4,9,Yes,No,No,No,White,NA
+Very Good,65,Female,3,2,1,Yes,NA,0,5,Yes,No,Yes,No,Black,FALSE
+Good,65,Female,3,3,3,Yes,NA,3,9,Yes,No,No,No,White,TRUE
+Good,77,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Poor,90,Male,2,0,NA,No,NA,1,9,Yes,No,No,No,Black,TRUE
+Good,37,Male,4,9,7,Yes,No,9,9,Yes,No,No,No,White,NA
+Fair,70,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,58,Female,3,4,4,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Very Good,69,Male,2,9,9,Yes,NA,9,9,Yes,No,No,No,White,NA
+Good,52,Female,1,1,1,No,NA,NA,5,Yes,No,Yes,No,Black,FALSE
+Very Good,53,Male,1,1,1,No,NA,1,3,Yes,No,No,No,White,TRUE
+Very Good,66,Female,3,2,2,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,71,Male,2,4,4,Yes,NA,2,7,Yes,No,Yes,No,White,FALSE
+Very Good,49,Female,3,1,0,Yes,NA,0,9,Yes,No,Yes,No,Another race,FALSE
+Good,57,Female,2,1,1,Yes,NA,9,9,Yes,No,No,No,Black,FALSE
+Very Good,75,Female,2,9,6,No,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,74,Female,1,0,NA,No,NA,0,7,Yes,No,Yes,Yes,NA,TRUE
+Fair,77,Female,1,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,54,Female,3,9,9,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,58,Female,3,2,2,Yes,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,69,Female,1,0,NA,No,NA,1,9,Yes,No,No,No,Black,FALSE
+Very Good,91,Male,2,0,NA,No,NA,0,8,Yes,No,Yes,No,White,FALSE
+Good,75,Male,2,6,2,No,NA,1,9,Yes,No,No,No,White,TRUE
+Very Good,80,Female,2,3,3,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,87,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,74,Female,1,2,2,No,NA,3,8,Yes,No,No,No,Black,FALSE
+Very Good,51,Male,4,9,9,Yes,No,0,NA,NA,NA,NA,NA,NA,FALSE
+Good,74,Male,1,1,0,No,NA,0,9,Yes,No,No,No,NA,TRUE
+Very Good,87,Female,2,2,1,No,NA,0,6,Yes,No,No,No,White,TRUE
+Good,62,Female,2,2,2,Unsure,NA,0,9,Yes,No,No,No,Black,FALSE
+Good,86,Female,1,2,0,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,85,Male,2,0,NA,No,NA,0,9,No,No,No,No,White,TRUE
+Very Good,61,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Poor,88,Female,3,0,NA,No,No,1,9,Yes,No,No,No,White,NA
+Poor,64,Male,2,1,0,No,NA,0,5,Yes,No,Yes,No,White,TRUE
+Fair,75,Female,1,0,NA,Yes,NA,0,6,Yes,No,Yes,No,NA,FALSE
+Good,50,Female,4,3,0,No,NA,NA,9,Yes,No,Yes,No,Asian,NA
+Good,71,Female,1,1,1,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,80,Male,3,1,8,No,NA,0,2,Yes,No,No,No,White,FALSE
+Very Good,65,Male,2,3,3,No,NA,1,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,47,Male,3,9,9,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,81,Male,1,1,0,No,NA,0,8,Yes,No,No,No,White,FALSE
+Very Good,85,Male,1,3,0,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,83,Female,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,62,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,66,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Poor,73,Female,4,0,NA,Yes,NA,9,9,Yes,No,No,No,White,FALSE
+Fair,73,Female,1,3,3,No,NA,1,6,Yes,No,No,No,Black,NA
+Good,74,Male,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Poor,79,Female,3,1,0,Yes,No,0,NA,NA,NA,NA,NA,NA,FALSE
+Good,55,Female,3,5,5,Yes,NA,0,6,Yes,No,No,No,White,FALSE
+Very Good,58,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,67,Female,2,1,1,Yes,NA,1,9,Yes,No,No,No,White,TRUE
+Good,74,Male,3,0,NA,No,No,0,9,No,No,Yes,No,Black,TRUE
+Fair,65,Male,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,69,Female,2,6,9,Unsure,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,81,Female,3,0,NA,No,No,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,53,Male,3,1,1,No,Yes,1,2,Yes,No,No,No,White,FALSE
+Very Good,67,Female,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,87,Female,1,6,6,No,NA,2,9,Yes,No,No,No,White,TRUE
+Good,60,Male,2,7,2,No,NA,0,8,No,No,No,No,White,TRUE
+Good,50,Female,6,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,85,Female,NA,2,0,No,NA,NA,9,Yes,No,No,No,White,TRUE
+Fair,92,Male,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,72,Female,2,3,0,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,99,Female,1,2,1,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,51,Female,4,1,0,No,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,75,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,NA,NA,TRUE
+Very Good,83,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,83,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,72,Male,2,5,5,No,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,57,Female,2,NA,NA,NA,0,0,9,Yes,No,No,No,Black,TRUE
+Good,84,Female,2,1,1,No,NA,1,9,No,No,No,No,White,TRUE
+Very Good,45,Male,3,5,5,No,No,0,9,Yes,No,Yes,Yes,NA,FALSE
+Very Good,71,Female,5,8,5,Yes,No,0,9,Yes,No,Yes,No,Black,FALSE
+Poor,65,Male,3,1,3,Yes,NA,0,4,Yes,No,No,No,White,TRUE
+Good,86,Female,2,0,NA,No,NA,0,8,Yes,No,Yes,No,White,FALSE
+Very Good,77,Male,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,86,Female,2,2,2,Yes,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,57,Female,3,2,2,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,82,Female,1,1,0,No,NA,0,9,Yes,No,No,No,White,NA
+Fair,72,Female,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,33,Female,4,3,3,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,84,Female,2,9,9,No,No,9,NA,NA,NA,NA,NA,NA,FALSE
+Good,68,Male,1,0,NA,No,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,73,Female,NA,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,72,Female,1,1,1,No,NA,1,9,No,No,No,No,White,TRUE
+Good,65,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,66,Female,4,3,1,Yes,No,1,9,Yes,No,No,No,Black,NA
+Very Good,81,Male,2,9,9,Yes,NA,1,5,Yes,No,No,No,White,TRUE
+Fair,85,Female,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,77,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,65,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,63,Male,2,0,NA,No,NA,0,7,Yes,No,Yes,No,White,TRUE
+Very Good,57,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,35,Female,7,0,NA,No,No,NA,9,Yes,No,Yes,No,White,NA
+Fair,52,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,72,Female,3,9,0,Yes,NA,1,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,48,Female,4,0,NA,Yes,Yes,0,9,Yes,No,Yes,No,White,TRUE
+Fair,76,Female,1,6,1,No,NA,1,9,Yes,No,No,No,White,TRUE
+Good,66,Male,1,3,3,No,NA,1,9,Yes,Unsure,No,No,Another race,FALSE
+Good,61,Female,2,3,3,No,NA,0,9,Yes,Unsure,Yes,No,White,FALSE
+Good,50,Female,1,2,1,Yes,NA,0,3,Yes,No,Yes,No,White,FALSE
+Good,63,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,54,Female,3,9,4,Yes,NA,1,9,Yes,No,No,No,White,TRUE
+Very Good,60,Male,2,2,3,No,NA,1,8,Yes,Unsure,No,No,Black,NA
+Very Good,66,Female,2,3,3,Yes,NA,0,5,Yes,No,Yes,No,White,FALSE
+Good,68,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,75,Female,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,77,Female,2,2,1,No,NA,0,7,Yes,No,No,No,White,TRUE
+Fair,64,Male,3,1,1,Yes,NA,0,9,Yes,No,No,No,White,NA
+Good,59,Female,3,1,1,No,NA,0,9,Yes,No,No,No,Black,NA
+Very Good,58,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,77,Female,2,9,7,No,NA,1,9,Yes,No,Yes,No,White,FALSE
+Very Good,73,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,47,Male,2,9,0,No,NA,1,9,Yes,No,No,No,Black,FALSE
+Fair,71,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,74,Male,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,56,Female,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,57,Female,2,9,9,Yes,NA,1,9,Yes,No,Yes,No,NA,FALSE
+Very Good,69,Female,2,9,9,Yes,NA,9,9,Yes,No,No,Yes,NA,TRUE
+Good,23,Female,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Poor,62,Male,5,5,5,Yes,NA,9,3,Yes,No,No,No,White,NA
+Fair,78,Female,1,1,1,No,NA,0,6,Yes,No,No,No,Black,NA
+Good,76,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,76,Female,1,9,9,No,NA,9,9,Yes,No,No,No,White,TRUE
+Good,74,Female,1,NA,NA,NA,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,69,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,Black,FALSE
+Good,70,Female,4,3,6,No,Yes,1,9,Yes,No,No,No,Black,FALSE
+Good,72,Female,2,4,0,No,NA,0,9,Yes,No,No,No,Black,FALSE
+Good,64,Female,6,9,5,No,NA,2,9,Yes,No,No,No,8,FALSE
+Very Good,79,Female,1,2,2,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,71,Female,2,6,6,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Good,75,Male,1,2,2,No,NA,NA,9,Yes,Yes,No,No,White,TRUE
+Very Good,68,Female,3,6,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,60,Female,3,5,5,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,91,Female,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,85,Male,1,5,9,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,71,Female,3,0,NA,No,NA,0,9,Yes,No,NA,NA,NA,TRUE
+Very Good,73,Female,2,2,9,No,NA,0,5,No,No,No,No,White,FALSE
+Good,50,Male,5,2,1,No,No,0,2,Yes,No,Yes,No,White,TRUE
+Very Good,59,Female,1,3,3,Yes,NA,0,9,Yes,No,Yes,Yes,NA,TRUE
+Good,60,Male,5,3,6,No,Yes,2,9,Yes,No,No,No,Black,NA
+Fair,54,Female,3,5,5,No,Yes,0,9,Yes,No,No,No,White,TRUE
+Good,64,Male,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,72,Female,2,5,5,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,71,Male,1,2,2,No,NA,1,9,Yes,No,Yes,No,Black,FALSE
+Good,66,Male,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,52,Female,1,2,0,No,NA,0,6,Yes,No,No,No,White,FALSE
+Very Good,88,Male,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,25,Female,3,9,9,Yes,NA,0,6,Yes,No,No,No,Black,FALSE
+Good,49,Female,5,3,3,Yes,NA,1,9,Yes,No,No,No,White,TRUE
+Good,67,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,71,Male,2,1,0,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,47,Male,1,9,9,Yes,NA,9,9,Yes,No,Yes,No,NA,TRUE
+Good,60,Male,4,2,0,Yes,NA,9,9,No,No,No,No,Black,FALSE
+Fair,67,Male,2,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,53,Female,3,2,2,Yes,NA,1,9,Yes,No,Yes,No,White,FALSE
+Very Good,43,Female,4,6,4,Yes,No,0,9,Yes,No,Yes,No,Black,NA
+Fair,52,Male,6,5,4,No,Yes,2,6,Yes,NA,NA,NA,NA,FALSE
+Very Good,83,Female,2,2,1,Yes,NA,0,9,No,No,No,No,White,TRUE
+Very Good,75,Female,2,4,4,No,NA,1,9,Yes,No,No,No,White,TRUE
+Good,83,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,NA
+Good,65,Female,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,85,Male,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,65,Female,3,1,1,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Good,68,Male,2,6,3,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,78,Female,2,2,1,Yes,NA,1,9,Yes,No,No,No,White,FALSE
+Fair,89,Female,1,1,1,No,NA,2,NA,NA,NA,NA,NA,NA,TRUE
+Good,60,Male,1,3,1,No,NA,1,9,No,No,No,No,Another race,FALSE
+Good,98,Female,9,0,NA,No,NA,1,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,79,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Fair,72,Female,2,1,1,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,65,Female,2,3,0,Yes,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,74,Male,2,9,9,Yes,NA,1,9,Yes,No,No,No,White,TRUE
+Good,72,Male,1,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,71,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,67,Female,1,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,87,Female,1,0,NA,No,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Good,71,Male,2,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,77,Male,2,9,9,No,NA,1,NA,NA,NA,NA,NA,NA,FALSE
+Good,60,Female,2,1,1,Yes,NA,0,8,Yes,No,Yes,No,Black,FALSE
+Very Good,68,Male,2,9,9,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,58,Female,3,0,NA,Yes,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Good,82,Male,1,2,0,No,NA,0,5,Yes,No,No,No,White,TRUE
+Very Good,58,Male,4,4,4,No,NA,0,9,Yes,No,Yes,No,NA,TRUE
+Good,59,Female,1,1,1,No,NA,0,9,Yes,No,No,No,Black,TRUE
+Very Good,67,Male,1,8,7,No,NA,1,9,Yes,No,Yes,No,White,TRUE
+Poor,74,Female,4,0,NA,Yes,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,83,Male,1,2,0,No,NA,0,6,Yes,No,Yes,No,White,FALSE
+Fair,67,Female,3,1,1,No,NA,2,4,Yes,No,No,No,Black,FALSE
+Very Good,81,Female,2,0,NA,No,NA,0,9,Yes,No,NA,NA,NA,TRUE
+Very Good,77,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,Black,FALSE
+Very Good,53,Female,6,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Good,86,Female,2,9,9,Yes,NA,9,9,Yes,No,No,No,NA,FALSE
+Good,73,Female,2,1,1,Yes,NA,0,9,Yes,No,No,No,White,NA
+Fair,85,Female,1,0,NA,No,NA,9,NA,NA,NA,NA,NA,NA,FALSE
+Good,75,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,78,Female,2,9,9,Yes,NA,9,9,Yes,No,No,No,White,FALSE
+Poor,78,Female,9,1,0,No,NA,1,8,Yes,No,No,No,White,NA
+Very Good,74,Male,2,4,4,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,28,Female,1,4,4,No,NA,0,3,Yes,No,No,No,Black,NA
+Very Good,64,Female,3,9,0,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,84,Female,4,0,NA,Yes,NA,NA,8,Yes,No,No,No,White,TRUE
+Good,63,Male,2,4,3,Yes,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,84,Female,2,3,7,No,NA,0,9,Yes,No,Yes,No,NA,FALSE
+Very Good,81,Female,6,0,NA,No,No,0,NA,NA,NA,NA,NA,NA,TRUE
+Fair,64,Female,2,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,70,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,59,Female,2,9,9,Yes,NA,1,9,Yes,No,Yes,No,Another race,TRUE
+Good,83,Male,1,9,4,Yes,NA,1,3,Yes,No,No,No,White,FALSE
+Good,50,Female,3,3,3,Yes,No,3,9,Yes,No,No,No,White,TRUE
+Good,69,Male,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,79,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,62,Male,1,0,NA,No,No,NA,9,Yes,No,Yes,No,White,NA
+Very Good,59,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,73,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,51,Female,2,2,1,Unsure,NA,0,9,Yes,No,No,No,Another race,FALSE
+Very Good,72,Female,2,2,1,No,NA,1,9,Yes,No,Yes,No,Black,FALSE
+Good,66,Male,2,1,1,Yes,NA,0,7,Yes,No,No,No,White,TRUE
+Very Good,81,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Poor,78,Female,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,66,Male,2,0,NA,Yes,NA,1,8,Yes,No,No,No,Black,FALSE
+Good,60,Female,2,9,1,No,NA,1,9,Yes,No,Yes,No,Black,FALSE
+Good,67,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,74,Male,1,5,5,No,NA,NA,9,Yes,No,No,No,Black,FALSE
+Good,82,Male,3,2,2,No,NA,0,9,NA,NA,NA,NA,NA,FALSE
+Good,80,Female,1,1,1,No,NA,0,1,Yes,No,No,No,White,FALSE
+Good,60,Male,5,3,3,No,No,9,6,No,No,No,No,White,NA
+Poor,54,Female,2,0,NA,No,NA,0,9,Yes,Yes,No,No,White,TRUE
+Good,73,Female,4,4,4,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,70,Male,2,9,6,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,79,Male,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,63,Female,3,2,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,56,Male,3,5,3,Yes,NA,0,6,Yes,No,No,No,White,TRUE
+Good,53,Female,3,7,0,No,NA,5,9,Yes,No,Yes,No,Black,FALSE
+Good,65,Female,1,0,NA,Yes,NA,NA,9,Yes,No,No,No,Black,FALSE
+Very Good,68,Female,2,2,2,Yes,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,72,Female,1,0,NA,No,NA,1,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,20,Female,4,4,4,Yes,NA,9,9,No,No,No,No,White,NA
+Fair,80,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,77,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,83,Male,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,57,Male,2,9,2,Yes,NA,1,9,Yes,No,Yes,No,White,TRUE
+Good,65,Male,3,4,1,No,Yes,0,9,Yes,No,No,No,White,TRUE
+Good,76,Female,2,3,3,No,NA,1,9,Yes,No,No,No,White,FALSE
+Very Good,90,Male,3,0,NA,No,NA,0,3,Yes,No,Yes,No,White,TRUE
+Good,69,Female,1,2,2,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Fair,53,Female,4,0,NA,Yes,No,0,9,Yes,No,No,No,White,FALSE
+Good,85,Male,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,75,Female,1,5,3,No,NA,1,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,89,Male,3,3,3,No,NA,0,7,Yes,No,No,No,White,TRUE
+Good,55,Male,3,1,2,No,NA,1,4,No,No,No,No,White,FALSE
+Good,88,Female,1,4,2,No,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,65,Male,2,4,3,Yes,NA,0,4,Yes,No,No,No,Black,FALSE
+Fair,79,Female,2,6,6,Unsure,NA,2,9,Yes,No,No,No,White,NA
+Good,65,Female,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,78,Male,4,0,NA,Yes,No,0,9,No,No,No,No,White,NA
+Good,81,Male,1,3,3,No,NA,0,7,Yes,No,Yes,No,White,TRUE
+Good,56,Male,6,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,62,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Poor,54,Female,3,0,NA,Yes,NA,0,9,Yes,Yes,No,No,White,TRUE
+Good,63,Male,2,1,1,Yes,NA,1,9,Yes,No,No,No,White,TRUE
+Very Good,56,Female,3,2,2,Yes,Yes,0,9,Yes,No,NA,NA,NA,TRUE
+Fair,60,Female,3,3,0,No,NA,2,NA,NA,NA,NA,NA,NA,TRUE
+Good,82,Female,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,86,Male,2,0,NA,No,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Fair,81,Male,2,0,NA,No,NA,0,3,Yes,No,No,No,White,FALSE
+Good,81,Male,2,2,1,No,NA,0,3,Yes,No,Yes,No,White,FALSE
+Good,73,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,52,Male,3,2,8,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Good,59,Male,9,9,5,Yes,No,0,5,NA,NA,NA,NA,NA,FALSE
+Very Good,30,Male,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,68,Female,1,9,4,NA,NA,0,9,Yes,No,No,No,Black,FALSE
+Good,86,Female,1,2,0,Unsure,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,65,Female,2,3,6,Yes,NA,1,9,Yes,No,No,No,White,TRUE
+Good,68,Female,2,0,NA,No,NA,1,5,Yes,No,Yes,No,White,TRUE
+Poor,73,Female,2,1,1,No,NA,0,9,No,No,Yes,No,White,NA
+Good,78,Female,3,2,6,No,NA,5,9,Yes,No,No,No,White,FALSE
+Good,67,Female,1,0,NA,No,NA,NA,4,Yes,No,No,No,Black,FALSE
+Poor,64,Female,2,0,NA,No,NA,0,8,Yes,Unsure,No,No,Black,FALSE
+Fair,85,Female,1,0,NA,No,NA,1,9,Yes,No,No,No,White,TRUE
+Poor,82,Male,3,9,9,No,NA,5,5,Yes,No,Yes,No,White,FALSE
+Very Good,74,Female,2,3,2,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,62,Female,2,5,5,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,66,Female,2,0,NA,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Fair,82,Female,2,0,NA,No,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Fair,73,Female,1,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,NA
+6,84,Female,1,3,3,No,NA,0,5,Yes,No,No,No,White,NA
+Good,72,Male,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,62,Female,1,0,NA,No,NA,1,9,Yes,No,No,No,White,FALSE
+Good,82,Male,2,1,0,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,74,Male,1,1,1,No,NA,1,9,Yes,No,Yes,No,White,TRUE
+Fair,78,Male,4,2,0,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,58,Female,2,2,2,Yes,NA,NA,9,Yes,No,No,No,White,TRUE
+Very Good,78,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,55,Female,2,1,1,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,69,Male,1,1,1,No,NA,1,9,Yes,No,Yes,No,White,TRUE
+Fair,52,Female,3,0,NA,Yes,NA,0,9,Yes,No,No,No,White,FALSE
+Fair,61,Female,2,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,70,Male,2,5,4,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,68,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,75,Female,2,1,0,Yes,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Poor,62,Female,1,9,4,No,NA,2,6,Yes,Unsure,No,No,White,TRUE
+Very Good,41,Female,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,76,Female,2,1,1,No,NA,0,6,Yes,No,Yes,No,White,NA
+Very Good,88,Female,2,2,2,No,NA,1,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,70,Male,2,NA,NA,NA,NA,0,5,No,No,No,No,Asian,NA
+Fair,22,Male,1,0,NA,No,NA,1,NA,NA,NA,NA,NA,NA,FALSE
+Fair,87,Female,1,0,NA,No,NA,0,8,No,No,Yes,No,White,FALSE
+Good,57,Female,3,1,1,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,48,Male,2,2,2,No,NA,0,8,No,No,No,No,White,NA
+Good,51,Female,4,4,4,No,No,0,6,Yes,No,No,No,Black,NA
+Fair,71,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,87,Male,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,85,Male,3,2,1,No,NA,0,4,Yes,NA,NA,NA,NA,TRUE
+Good,57,Male,3,0,NA,No,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,79,Male,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,62,Male,2,5,3,No,NA,0,8,Yes,No,No,No,White,TRUE
+Very Good,53,Female,3,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Fair,72,Male,2,0,NA,No,NA,0,9,No,No,Yes,No,Another race,FALSE
+Good,59,Female,2,1,1,No,NA,1,9,Yes,Yes,Yes,No,Black,FALSE
+Fair,83,Female,2,0,NA,No,NA,0,3,Yes,No,No,No,Black,FALSE
+Good,79,Male,4,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,60,Female,2,4,3,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,45,Female,5,0,NA,Yes,No,0,9,Yes,No,Yes,No,Black,FALSE
+Fair,88,Male,2,0,NA,No,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,64,Female,2,0,NA,NA,NA,0,9,Yes,No,4,No,White,TRUE
+Good,45,Male,3,9,9,Yes,No,1,8,Yes,No,No,No,White,TRUE
+Fair,71,Female,NA,0,NA,No,NA,0,9,Yes,No,NA,NA,NA,FALSE
+Good,94,Female,1,9,9,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,52,Female,4,8,8,Yes,Yes,0,9,NA,NA,NA,NA,NA,TRUE
+Poor,85,Female,1,0,NA,No,NA,1,5,Yes,No,No,No,White,TRUE
+Good,78,Male,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,55,Female,4,1,1,No,No,0,9,Yes,No,No,No,Another race,FALSE
+Very Good,67,Male,3,0,NA,Yes,NA,0,5,Yes,No,Yes,Yes,NA,FALSE
+Good,69,Male,2,0,NA,No,NA,0,8,Yes,No,No,No,White,TRUE
+Fair,81,Female,2,1,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,FALSE
+Good,84,Female,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,62,Male,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,78,Male,2,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,81,Male,1,4,0,No,NA,1,6,Yes,No,No,No,White,TRUE
+Fair,91,Female,1,1,NA,NA,NA,1,6,Yes,No,No,No,White,TRUE
+Good,81,Female,7,0,NA,Yes,No,0,9,No,No,Yes,No,White,TRUE
+Fair,73,Male,2,3,0,Unsure,NA,0,6,Yes,No,No,No,White,TRUE
+Good,86,Male,2,2,9,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,92,Female,1,2,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,79,Male,2,2,2,No,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,49,Male,4,9,9,Yes,No,0,8,Yes,No,Yes,No,White,TRUE
+Good,66,Female,2,0,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,91,Female,1,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,62,Male,2,2,1,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,72,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,73,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,58,Female,3,0,NA,Yes,NA,0,1,Yes,No,Yes,No,White,FALSE
+Good,63,Male,6,9,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,57,Male,2,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,77,Female,5,1,5,Yes,Yes,0,6,Yes,No,No,No,White,NA
+Good,63,Female,3,2,3,Yes,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,60,Female,4,3,3,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,22,Female,3,3,3,Yes,No,2,9,Yes,No,Yes,No,Black,FALSE
+Very Good,54,Male,8,9,9,Yes,Yes,0,5,Yes,No,No,No,White,TRUE
+Good,56,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,46,Male,4,0,NA,No,Yes,0,9,Yes,No,Yes,Yes,NA,NA
+Good,66,Female,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,66,Female,4,1,1,No,NA,1,9,Yes,No,No,No,White,NA
+Good,63,Female,1,3,1,Yes,NA,0,5,Yes,No,No,No,White,TRUE
+Very Good,81,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,83,Female,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,76,Female,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Poor,49,Male,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,51,Female,3,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Fair,77,Female,3,1,0,Unsure,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,48,Female,4,9,0,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,46,Female,4,9,5,Yes,NA,9,9,Yes,No,Yes,No,Black,NA
+Good,50,Female,2,4,2,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,43,Male,1,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,53,Female,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,60,Male,3,3,3,Yes,NA,0,9,Yes,No,Yes,No,White,NA
+Fair,66,Female,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,59,Male,2,3,0,No,NA,0,9,Yes,No,No,No,Black,NA
+Very Good,67,Female,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,52,Male,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,49,Female,3,3,3,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,79,Female,2,0,NA,Yes,NA,NA,9,Yes,No,No,No,Black,NA
+Good,40,Male,5,5,3,Yes,Yes,1,4,Yes,No,Yes,No,White,FALSE
+Poor,56,Male,2,9,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,76,Female,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,71,Male,2,0,NA,Unsure,NA,0,9,Yes,No,No,No,White,NA
+Fair,53,Female,3,1,1,Yes,NA,0,5,Yes,No,No,No,Black,FALSE
+Good,79,Female,2,0,NA,No,NA,3,7,Yes,No,No,No,White,NA
+Very Good,57,Female,3,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,50,Female,3,1,1,Yes,NA,2,6,Yes,No,No,No,White,TRUE
+Very Good,50,Female,5,2,0,Yes,No,0,8,Yes,No,No,No,White,TRUE
+Very Good,75,Female,3,9,9,No,NA,1,9,Yes,No,Yes,No,Another race,NA
+Very Good,76,Male,2,1,1,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,46,Male,9,0,NA,No,No,0,7,Yes,No,Yes,No,White,TRUE
+Good,57,Female,5,0,NA,Yes,No,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,74,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,54,Female,6,0,NA,Yes,No,9,9,Yes,No,Yes,No,White,TRUE
+Poor,44,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,56,Female,2,0,NA,No,NA,0,1,Yes,No,No,No,White,TRUE
+Very Good,50,Female,3,0,NA,No,NA,0,9,Yes,No,No,No,Black,NA
+Very Good,35,Female,4,0,NA,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Good,52,Female,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,51,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,67,Male,1,0,NA,No,NA,0,9,Yes,No,No,No,Black,NA
+Good,57,Female,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,57,Male,2,3,0,Yes,NA,0,5,Yes,No,Yes,No,Asian,TRUE
+Good,42,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,46,Male,4,0,NA,Yes,NA,0,5,Yes,No,Yes,No,White,FALSE
+Good,55,Female,3,3,3,Yes,NA,9,9,Yes,No,No,No,Black,FALSE
+Very Good,65,Male,2,4,4,Yes,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,56,Female,4,0,NA,Yes,Yes,0,9,Yes,No,Yes,No,White,TRUE
+Fair,47,Male,2,4,5,Yes,NA,0,9,Yes,No,No,No,Black,NA
+Poor,74,Male,2,9,9,Yes,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Good,73,Female,2,1,1,No,NA,0,3,Yes,No,Yes,No,White,TRUE
+Good,52,Female,2,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,60,Male,1,0,NA,No,NA,0,9,Yes,No,No,No,White,NA
+Good,69,Male,5,0,NA,Yes,NA,0,9,Yes,No,Yes,No,Another race,FALSE
+Good,57,Male,3,9,9,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Poor,32,Male,9,9,0,Yes,Yes,9,0,No,No,No,No,White,NA
+Good,62,Female,3,2,2,Yes,NA,9,9,Yes,No,No,No,White,TRUE
+Good,53,Female,2,1,1,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,55,Female,4,3,6,Yes,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,74,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,38,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,47,Male,2,1,9,Yes,NA,0,9,Yes,No,Yes,No,White,NA
+Good,50,Female,3,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,81,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,84,Male,1,0,NA,No,NA,1,5,Yes,No,No,No,White,NA
+Very Good,56,Male,NA,1,1,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,42,Female,4,6,0,Yes,No,0,6,Yes,No,No,No,Black,NA
+Good,71,Female,1,6,6,No,NA,0,9,Yes,No,No,No,White,NA
+Very Good,82,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Good,88,Female,1,1,0,No,NA,0,3,Yes,No,Yes,No,White,FALSE
+Good,84,Female,9,9,0,No,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,78,Male,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,52,Male,3,9,9,Yes,Yes,3,9,No,No,Yes,No,White,TRUE
+Very Good,64,Female,NA,9,7,Yes,NA,9,9,No,No,No,No,White,FALSE
+Good,50,Male,4,1,1,Yes,NA,0,6,Yes,No,Yes,No,White,FALSE
+Very Good,80,Female,2,1,0,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,55,Female,NA,NA,NA,NA,0,5,9,Yes,No,No,No,Black,FALSE
+Very Good,65,Female,4,4,0,NA,Yes,0,6,Yes,No,Yes,No,White,NA
+Fair,47,Female,6,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,80,Female,1,0,NA,No,NA,1,9,Yes,No,No,No,White,NA
+Good,51,Female,2,5,5,Yes,NA,1,9,Yes,No,No,No,White,TRUE
+Good,55,Male,2,9,9,Yes,NA,0,9,Yes,No,Yes,No,White,NA
+Fair,47,Female,3,3,2,No,NA,0,9,Yes,No,NA,NA,NA,TRUE
+Very Good,55,Male,3,1,1,Unsure,NA,2,9,Yes,No,Yes,No,White,FALSE
+Very Good,46,Female,4,5,5,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Very Good,74,Female,1,2,2,No,NA,0,9,Yes,Yes,No,No,White,TRUE
+Very Good,59,Female,2,1,0,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,44,Female,4,0,NA,No,Yes,0,9,Yes,No,Yes,No,White,FALSE
+Fair,59,Female,1,9,6,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,57,Male,3,9,9,Yes,NA,2,9,Yes,No,Yes,No,White,FALSE
+Very Good,69,Female,4,4,0,No,NA,0,9,Yes,No,Yes,No,Black,NA
+Fair,47,Male,4,9,9,No,Yes,0,9,Yes,No,No,No,White,TRUE
+Very Good,50,Female,3,2,2,Yes,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,72,Female,2,3,0,No,NA,1,9,Yes,NA,NA,NA,NA,TRUE
+Fair,53,Male,4,4,4,Yes,NA,1,3,Yes,No,No,No,White,TRUE
+Very Good,45,Female,5,0,NA,No,No,0,5,Yes,No,Yes,No,White,TRUE
+Very Good,52,Male,2,9,0,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,57,Female,3,6,3,Yes,NA,2,9,Yes,No,NA,NA,NA,TRUE
+Very Good,55,Male,2,1,1,No,NA,0,9,Yes,No,Yes,Yes,NA,TRUE
+Fair,60,Female,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,57,Female,1,0,NA,No,NA,1,9,No,No,No,No,Black,FALSE
+Very Good,49,Female,4,9,9,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,76,Female,2,3,2,Yes,NA,0,9,Yes,No,Yes,Yes,NA,FALSE
+Very Good,43,Female,2,1,0,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Good,54,Female,2,1,1,No,NA,0,9,Yes,No,Yes,No,White,NA
+Poor,80,Female,1,5,9,NA,NA,8,9,Yes,NA,NA,NA,NA,FALSE
+Good,74,Male,1,8,9,No,NA,9,9,Yes,No,No,No,Black,NA
+Very Good,39,Male,4,1,1,Yes,No,9,9,Yes,No,No,No,White,TRUE
+Good,46,Male,4,2,2,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,81,Male,4,4,4,No,No,0,5,Yes,No,No,No,Black,FALSE
+Fair,65,Female,2,2,2,No,NA,0,9,Yes,No,No,No,NA,FALSE
+Very Good,56,Male,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,32,Female,4,9,2,Yes,Yes,6,9,Yes,No,No,No,White,NA
+Poor,52,Female,3,9,9,Unsure,Yes,9,1,Yes,Unsure,No,No,Another race,NA
+Good,67,Male,2,0,NA,No,NA,0,5,Yes,No,No,No,White,NA
+Good,69,Female,1,1,1,No,NA,0,3,Yes,No,Yes,No,White,FALSE
+Good,63,Male,2,0,NA,Yes,NA,0,2,Yes,No,No,No,White,NA
+Fair,49,Female,4,1,1,Yes,No,0,9,Yes,Yes,Yes,No,White,FALSE
+Very Good,53,Male,4,0,NA,Yes,NA,0,5,Yes,No,Yes,No,Asian,TRUE
+Good,79,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,89,Female,1,9,9,No,NA,3,9,Yes,No,No,No,White,FALSE
+Very Good,52,Male,1,9,1,Yes,NA,1,9,Yes,No,Yes,No,White,FALSE
+Good,49,Female,7,9,6,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,47,Female,6,1,1,Yes,NA,0,9,Yes,No,No,No,White,FALSE
+Good,59,Male,3,9,6,Yes,Unsure,0,9,Yes,No,No,No,White,TRUE
+Very Good,45,Female,4,6,0,No,No,0,9,Yes,No,No,No,White,TRUE
+Good,65,Male,2,6,6,Yes,NA,0,9,Yes,Unsure,No,No,White,FALSE
+Very Good,22,Female,4,2,0,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,55,Female,4,1,1,No,No,1,9,Yes,No,Yes,No,Black,FALSE
+Very Good,54,Male,5,1,1,Yes,No,0,6,Yes,No,No,No,White,FALSE
+Good,48,Female,3,9,9,Yes,No,9,9,Yes,Yes,Yes,No,White,FALSE
+Good,45,Female,4,1,1,No,NA,0,2,Yes,No,Yes,No,White,TRUE
+Fair,58,Female,5,0,NA,Yes,Yes,0,2,Yes,Yes,No,No,Black,FALSE
+Very Good,64,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,57,Female,2,1,1,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,54,Female,NA,9,9,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,57,Female,2,2,1,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,30,Female,4,2,2,Yes,No,0,9,Yes,No,No,No,Black,NA
+Poor,53,Male,1,3,3,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,56,Female,4,3,0,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Fair,58,Male,2,9,2,Yes,NA,1,2,Yes,No,Yes,No,White,TRUE
+Very Good,47,Female,5,1,1,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Very Good,99,Male,1,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,59,Female,2,3,3,No,NA,NA,9,NA,NA,NA,NA,NA,TRUE
+Very Good,70,Male,1,0,NA,No,NA,0,5,Yes,No,No,No,Black,NA
+Good,85,Female,2,9,9,No,NA,9,9,No,No,No,No,White,NA
+Very Good,58,Male,3,2,1,Yes,NA,0,5,Yes,No,Yes,No,Black,FALSE
+Very Good,57,Female,2,4,1,Yes,NA,0,9,Yes,No,Yes,No,Black,FALSE
+6,57,Female,3,0,NA,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Fair,30,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,49,Female,3,1,1,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Good,52,Female,4,0,NA,Yes,NA,0,8,Yes,No,Yes,Yes,NA,FALSE
+Good,57,Male,2,3,1,No,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,51,Female,3,0,NA,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,56,Female,3,4,3,Yes,NA,1,9,Yes,No,No,No,Another race,FALSE
+Very Good,59,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,56,Female,1,0,NA,No,NA,0,9,No,No,No,No,White,FALSE
+Fair,52,Male,2,9,9,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,60,Male,2,6,1,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,77,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,54,Female,2,1,0,Yes,NA,2,6,Yes,No,Yes,No,Black,FALSE
+Very Good,54,Male,9,9,2,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,79,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,NA
+Good,44,Male,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,73,Male,3,9,8,No,NA,9,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,83,Male,2,6,2,Unsure,NA,1,9,Yes,No,Yes,Yes,NA,NA
+Very Good,32,Male,6,9,9,No,No,1,9,Yes,No,No,No,White,NA
+Good,19,Male,4,0,NA,No,No,0,5,Yes,No,No,No,White,FALSE
+Very Good,56,Female,4,6,6,Yes,No,4,9,Yes,No,No,No,White,TRUE
+Good,88,Female,1,5,3,No,NA,NA,5,Yes,No,Yes,No,White,NA
+Poor,60,Female,2,9,1,Unsure,NA,0,9,Yes,No,No,No,White,TRUE
+Good,77,Female,3,0,NA,No,NA,0,8,Yes,No,Yes,No,White,NA
+Good,39,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,75,Male,2,1,1,No,NA,0,5,Yes,No,No,No,White,FALSE
+Very Good,59,Female,2,4,2,Yes,NA,0,9,Yes,No,No,No,White,FALSE
+Good,53,Female,2,1,1,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,66,Female,3,1,1,Yes,NA,0,4,Yes,No,No,No,Black,NA
+Fair,51,Female,4,9,0,Yes,NA,0,6,Yes,No,Yes,No,Black,NA
+Good,67,Female,2,2,2,No,NA,1,9,Yes,No,No,No,White,TRUE
+Very Good,57,Male,3,4,4,No,Yes,0,6,Yes,No,Yes,No,White,TRUE
+Good,55,Male,4,9,0,Yes,Yes,5,9,Yes,Unsure,No,No,White,TRUE
+Good,51,Male,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,47,Male,3,2,2,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,67,Female,NA,1,0,No,NA,NA,5,Yes,No,No,No,Black,FALSE
+Poor,58,Male,2,9,5,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,59,Female,2,9,5,Yes,NA,1,5,Yes,No,Yes,No,White,FALSE
+Good,84,Male,1,0,NA,No,NA,0,6,Yes,No,Yes,No,White,NA
+Very Good,50,Female,4,2,2,No,NA,0,9,Yes,No,No,No,White,NA
+Good,56,Male,1,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Fair,86,Female,2,0,NA,No,NA,1,2,Yes,No,No,No,White,NA
+Poor,99,Female,NA,9,9,Yes,Yes,9,5,No,Yes,No,No,White,NA
+Very Good,48,Female,2,1,1,No,NA,2,4,Yes,No,Yes,No,White,FALSE
+Very Good,56,Female,2,3,2,Yes,NA,0,7,Yes,No,No,No,White,TRUE
+Very Good,50,Female,2,2,2,No,NA,1,9,Yes,No,No,No,Another race,TRUE
+Fair,75,Female,3,1,1,No,NA,1,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,73,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,77,Male,2,9,9,No,NA,0,6,Yes,No,No,No,White,NA
+Good,47,Male,4,2,1,Yes,No,0,6,Yes,No,Yes,No,White,FALSE
+Very Good,57,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,50,Female,2,3,1,Yes,NA,0,3,Yes,No,Yes,No,Black,FALSE
+Very Good,51,Female,4,1,1,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,55,Female,3,0,NA,Yes,NA,0,8,Yes,No,Yes,No,White,TRUE
+Very Good,31,Male,4,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,58,Male,4,9,9,Yes,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,48,Female,4,0,NA,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Very Good,57,Male,4,3,3,Yes,NA,0,8,Yes,No,Yes,No,White,TRUE
+Poor,78,Male,5,1,1,Yes,NA,1,8,Yes,No,No,No,White,NA
+Very Good,57,Male,4,4,4,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,59,Female,1,0,NA,No,NA,0,1,Yes,No,No,No,Black,NA
+Very Good,57,Male,1,1,NA,NA,NA,NA,9,No,No,No,Yes,NA,TRUE
+Good,82,Male,1,1,1,Yes,NA,0,9,Yes,Unsure,No,No,White,FALSE
+Good,63,Female,2,7,0,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,25,Male,8,4,4,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,52,Female,3,4,4,No,Yes,NA,9,Yes,No,No,No,Black,FALSE
+Fair,46,Female,2,8,8,No,NA,2,NA,NA,NA,NA,NA,NA,FALSE
+Fair,78,Female,2,1,1,No,NA,NA,5,Yes,No,No,No,Black,NA
+Good,48,Male,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,52,Male,5,4,3,Yes,No,0,6,Yes,No,Yes,No,White,TRUE
+Very Good,42,Male,3,9,9,No,NA,9,9,Yes,No,No,No,White,TRUE
+Fair,56,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,43,Male,4,4,0,NA,No,0,9,Yes,No,Yes,No,White,TRUE
+Fair,54,Male,3,6,5,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,67,Female,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,68,Female,2,1,1,No,NA,1,9,Yes,No,Yes,No,White,FALSE
+Good,58,Female,4,3,3,NA,No,4,9,Yes,No,No,No,Black,FALSE
+Good,78,Female,2,0,NA,No,NA,0,6,No,No,No,No,White,NA
+Fair,49,Male,2,1,0,Yes,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,79,Male,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,82,Male,9,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,53,Male,3,1,3,No,No,1,9,Yes,No,No,No,White,NA
+Good,45,Male,5,9,9,Yes,No,1,9,Yes,No,No,No,White,TRUE
+Good,76,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,52,Male,3,0,NA,No,No,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,61,Female,2,1,0,No,NA,2,1,Yes,No,Yes,No,White,NA
+Good,42,Female,7,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,77,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,NA
+Good,58,Female,3,9,9,Yes,NA,1,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,55,Female,3,0,NA,No,NA,0,8,Yes,No,Yes,No,White,TRUE
+Good,43,Female,1,1,1,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Very Good,51,Female,5,3,1,Yes,No,1,9,Yes,No,No,No,White,TRUE
+Very Good,54,Female,5,0,NA,No,No,1,5,Yes,No,Yes,No,White,FALSE
+Poor,58,Male,2,2,2,Yes,NA,1,8,Yes,No,No,No,White,TRUE
+Very Good,32,Female,4,0,NA,No,No,NA,9,Yes,No,Yes,No,Black,FALSE
+Good,51,Male,4,4,4,Yes,Yes,0,9,Yes,No,Yes,No,White,FALSE
+Fair,59,Female,3,6,0,Yes,Yes,0,9,Yes,No,Yes,No,Black,FALSE
+Good,44,Male,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,53,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,56,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,53,Female,4,4,4,Yes,No,0,7,Yes,No,No,No,White,NA
+Very Good,57,Male,1,3,3,Yes,NA,3,9,Yes,No,No,No,White,TRUE
+Very Good,42,Female,3,0,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,42,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,55,Female,2,4,4,Yes,NA,0,6,Yes,No,No,No,White,TRUE
+Good,50,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,52,Female,1,1,1,No,No,0,9,Yes,No,No,No,Black,NA
+Very Good,54,Female,2,2,1,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,55,Male,6,1,1,Yes,No,0,7,Yes,No,No,No,Black,FALSE
+Very Good,70,Female,3,2,2,Yes,NA,1,9,Yes,No,No,No,Black,FALSE
+Fair,87,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Poor,54,Male,2,1,0,Yes,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,57,Female,4,1,1,Yes,Yes,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,38,Male,3,2,2,No,No,0,6,Yes,No,Yes,No,White,TRUE
+Fair,50,Male,4,0,NA,Yes,No,1,9,Yes,No,No,Yes,NA,TRUE
+Good,77,Female,3,1,1,No,NA,0,8,Yes,NA,NA,NA,NA,FALSE
+Good,57,Male,4,4,2,No,NA,0,6,Yes,No,No,No,White,TRUE
+Very Good,56,Female,3,3,3,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,40,Female,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,55,Male,2,1,1,Yes,Unsure,0,9,Yes,No,No,No,NA,TRUE
+Good,77,Male,2,5,5,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,55,Male,3,3,3,No,NA,0,9,NA,NA,NA,NA,NA,FALSE
+Good,38,Female,3,3,3,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Good,47,Male,5,0,NA,Yes,No,9,NA,NA,NA,NA,NA,NA,TRUE
+Fair,56,Female,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,65,Female,2,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,54,Female,3,0,NA,Yes,No,0,9,Yes,No,NA,NA,NA,TRUE
+Very Good,59,Female,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,58,Female,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,37,Female,1,5,1,No,NA,0,6,Yes,No,Yes,No,Black,FALSE
+Very Good,54,Male,7,1,1,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Fair,48,Female,1,0,NA,Yes,NA,NA,9,Yes,No,No,No,Black,NA
+Very Good,49,Female,3,2,1,No,No,0,9,Yes,No,No,No,White,FALSE
+Good,59,Male,2,3,3,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,58,Male,2,0,NA,No,NA,0,6,Yes,No,Yes,No,White,TRUE
+Very Good,58,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,58,Female,4,0,NA,Yes,NA,0,5,Yes,No,Yes,No,White,FALSE
+Good,58,Male,1,9,8,No,NA,2,9,Yes,No,Yes,No,Another race,FALSE
+Good,66,Female,3,9,NA,NA,NA,0,6,Yes,No,Yes,No,White,NA
+Very Good,48,Female,9,0,NA,Yes,No,2,9,Yes,Yes,No,No,Asian,NA
+Very Good,74,Female,1,1,1,No,NA,0,6,Yes,No,Yes,No,White,NA
+Very Good,53,Female,3,3,9,Yes,NA,1,NA,NA,NA,NA,NA,NA,FALSE
+Fair,58,Female,1,0,NA,No,NA,0,5,Yes,Unsure,No,Yes,NA,FALSE
+Very Good,55,Female,1,9,9,Yes,NA,NA,9,Yes,No,No,No,White,TRUE
+Very Good,84,Male,2,5,0,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,18,Male,5,0,NA,No,No,0,6,Yes,No,No,No,Asian,NA
+Good,41,Male,3,9,7,Yes,No,0,8,Yes,No,Yes,No,Asian,FALSE
+Very Good,38,Female,4,0,NA,Yes,No,0,9,Yes,No,Yes,No,Asian,NA
+Good,29,Male,3,9,9,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,77,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,54,Female,2,2,0,Yes,NA,0,9,Yes,No,No,Yes,NA,TRUE
+Good,53,Female,2,1,0,No,NA,2,9,Yes,No,Yes,No,White,NA
+Very Good,51,Female,3,1,1,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,87,Male,2,0,NA,No,NA,9,2,Yes,No,No,No,White,NA
+Very Good,53,Male,3,9,9,Yes,Yes,0,3,Yes,No,No,No,White,TRUE
+Very Good,56,Male,1,0,NA,No,NA,0,9,Yes,No,Yes,No,Another race,NA
+Very Good,56,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,NA
+Fair,70,Female,2,1,1,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,67,Male,1,9,8,No,NA,0,3,Yes,No,NA,NA,NA,FALSE
+Good,49,Male,5,5,4,Yes,Yes,1,5,Yes,No,Yes,No,White,TRUE
+Fair,28,Female,1,0,NA,No,NA,0,3,Yes,No,Yes,No,White,FALSE
+Good,61,Male,2,8,8,NA,NA,2,8,Yes,No,Yes,No,White,NA
+Very Good,71,Male,5,9,9,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,19,Male,5,0,NA,Yes,No,5,7,Yes,No,No,Yes,NA,NA
+Good,46,Male,5,4,0,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Fair,71,Female,2,2,2,No,NA,0,9,Yes,No,Yes,No,Another race,NA
+Very Good,70,Female,1,0,NA,No,NA,0,7,Yes,No,Yes,No,White,NA
+Good,36,Male,6,9,9,Yes,No,5,9,Yes,No,No,No,White,TRUE
+Good,64,Male,4,3,1,Yes,NA,0,8,Yes,No,Yes,No,White,NA
+Fair,57,Female,4,3,4,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,72,Female,2,2,0,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,48,Male,5,3,3,Yes,Yes,0,8,Yes,No,Yes,No,White,TRUE
+Good,52,Male,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,58,Male,2,2,4,No,NA,0,5,Yes,No,Yes,No,Asian,FALSE
+Good,55,Male,6,0,NA,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Good,28,Female,3,0,NA,Yes,No,0,9,Yes,No,No,No,Another race,NA
+Poor,22,Male,2,4,3,Yes,NA,0,9,Yes,No,No,No,White,NA
+Very Good,57,Male,1,9,9,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,41,Male,2,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,45,Male,5,3,3,Yes,Yes,0,9,Yes,No,No,No,White,FALSE
+Good,35,Male,3,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,27,Female,6,9,9,Yes,NA,2,9,Yes,No,No,No,White,FALSE
+Very Good,57,Male,4,0,NA,Yes,No,0,3,No,No,No,No,White,TRUE
+Good,63,Male,1,2,2,No,NA,0,9,Yes,No,No,No,Black,NA
+Very Good,27,Male,1,0,NA,Yes,NA,0,9,Yes,No,No,No,White,NA
+Fair,81,Female,2,1,0,Yes,NA,1,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,23,Male,2,5,2,Yes,NA,0,5,Yes,No,No,No,Black,NA
+Very Good,51,Male,4,6,6,Yes,No,6,4,Yes,No,Yes,No,White,NA
+Very Good,54,Female,9,0,NA,No,No,0,9,Yes,No,No,No,Black,NA
+Fair,71,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,63,Female,1,9,7,No,NA,1,9,Yes,No,No,No,Another race,TRUE
+Good,68,Female,2,0,NA,No,No,0,9,Yes,No,No,No,Black,FALSE
+Very Good,34,Male,1,9,9,Yes,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,45,Female,4,0,NA,No,No,0,8,Yes,No,Yes,No,Black,NA
+Good,73,Male,2,0,NA,No,NA,1,9,Yes,No,Yes,No,White,NA
+Poor,57,Male,1,3,3,No,NA,1,2,Yes,No,No,No,White,NA
+Good,27,Female,2,9,7,Yes,NA,0,9,Yes,No,Yes,No,Black,NA
+Good,66,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,66,Male,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,54,Male,3,3,3,Yes,NA,0,9,Yes,No,No,No,White,NA
+Very Good,45,Female,3,2,0,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,78,Male,1,1,1,No,NA,1,9,Yes,No,No,Yes,NA,NA
+Very Good,37,Male,1,9,9,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,34,Female,4,0,NA,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Very Good,60,Female,1,2,1,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,30,Female,4,0,NA,No,No,0,9,Yes,No,Yes,Yes,NA,NA
+Very Good,35,Female,3,2,1,No,NA,0,9,Yes,No,Yes,Yes,NA,NA
+Very Good,29,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,Yes,NA,TRUE
+Good,47,Female,3,9,9,Yes,No,0,9,Yes,No,Yes,No,White,NA
+Good,51,Male,5,5,5,Yes,Yes,0,9,Yes,No,No,No,White,TRUE
+Good,66,Female,1,1,1,No,NA,2,8,Yes,No,Yes,No,Black,NA
+Fair,30,Female,1,1,1,No,NA,0,6,Yes,No,No,Yes,NA,FALSE
+Good,27,Female,3,9,7,No,NA,0,7,Yes,No,Yes,No,White,NA
+Very Good,71,Male,1,0,NA,No,NA,0,6,Yes,No,No,No,White,FALSE
+Very Good,34,Male,5,1,0,Yes,No,0,9,Yes,No,No,No,White,FALSE
+Very Good,79,Female,1,0,NA,No,NA,0,4,Yes,No,No,No,White,NA
+Very Good,29,Male,4,2,2,No,No,0,4,Yes,No,NA,NA,NA,TRUE
+Good,40,Female,3,9,0,Yes,No,0,9,Yes,No,No,No,Black,NA
+Poor,80,Male,3,2,2,Yes,NA,0,8,Yes,No,No,No,White,NA
+Good,61,Male,3,4,0,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,64,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,45,Male,6,9,9,Yes,No,0,9,Yes,No,Yes,No,White,NA
+Good,41,Female,5,1,1,No,Yes,0,9,Yes,No,Yes,No,White,TRUE
+Good,41,Male,4,2,2,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,58,Male,3,9,7,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,65,Female,2,2,2,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,50,Female,5,0,NA,Yes,No,0,9,Yes,No,Yes,No,Another race,FALSE
+Good,45,Male,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Fair,46,Female,4,0,NA,Yes,No,0,2,Yes,No,No,No,White,FALSE
+Good,86,Male,3,3,3,Yes,NA,0,6,Yes,No,Yes,No,Black,NA
+Good,34,Female,4,1,1,No,No,0,4,Yes,No,No,No,White,FALSE
+Fair,18,Male,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,69,Male,2,2,1,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,48,Female,1,0,NA,No,NA,0,5,Yes,No,Yes,No,Black,FALSE
+Very Good,30,Male,1,2,0,No,NA,0,3,Yes,No,Yes,No,White,TRUE
+Very Good,44,Male,7,1,0,No,No,0,4,Yes,No,Yes,Yes,NA,TRUE
+Good,57,Female,1,1,2,Yes,NA,1,9,Yes,No,No,No,White,TRUE
+Good,56,Female,4,2,1,Yes,NA,0,9,Yes,No,Yes,Yes,NA,FALSE
+Very Good,83,Male,2,5,7,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,32,Male,7,9,0,No,No,0,9,Yes,No,No,No,White,NA
+Good,58,Male,2,0,NA,Yes,NA,1,9,Yes,No,No,No,White,NA
+Very Good,48,Female,3,1,1,No,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,79,Female,1,2,2,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,20,Male,4,9,NA,Yes,Unsure,0,7,No,No,No,No,White,TRUE
+Very Good,34,Male,5,0,NA,Yes,No,0,9,Yes,No,No,No,White,NA
+Very Good,65,Female,1,2,2,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,29,Male,3,2,2,Yes,NA,3,4,Yes,No,Yes,No,White,TRUE
+Very Good,50,Male,5,0,NA,No,No,0,9,Yes,No,No,No,White,NA
+Good,85,Male,2,5,5,No,NA,0,5,Yes,No,Yes,No,White,NA
+Very Good,20,Male,4,8,8,No,Yes,1,7,Yes,No,No,Yes,NA,NA
+Fair,64,Female,1,0,NA,No,NA,0,5,Yes,No,No,No,White,TRUE
+Good,49,Male,3,0,NA,Yes,NA,0,9,Yes,No,No,No,Black,NA
+Fair,47,Male,1,1,0,No,NA,0,9,Yes,No,No,No,Black,NA
+Good,50,Male,7,0,NA,No,No,0,8,Yes,No,No,No,White,NA
+Good,68,Female,1,0,NA,No,NA,2,9,Yes,No,Yes,No,White,FALSE
+Very Good,23,Female,4,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,31,Male,3,3,1,Yes,NA,0,9,Yes,No,No,No,White,NA
+Good,54,Male,4,3,3,No,No,0,4,Yes,No,Yes,No,White,TRUE
+Good,36,Male,4,0,NA,Yes,No,0,5,Yes,No,No,No,White,TRUE
+Good,56,Male,4,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,27,Female,2,0,NA,Yes,NA,0,6,Yes,No,Yes,No,Black,NA
+Good,94,Male,1,2,1,Yes,NA,0,5,Yes,No,No,No,White,TRUE
+Fair,42,Male,3,5,5,Yes,NA,1,5,Yes,No,No,No,Black,FALSE
+Good,69,Female,2,0,NA,No,NA,3,9,Yes,No,Yes,No,White,NA
+Very Good,23,Male,1,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,21,Female,4,1,1,Yes,NA,0,9,Yes,No,No,No,White,NA
+Good,86,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,NA
+Poor,55,Female,3,4,4,Yes,NA,0,8,Yes,No,No,No,White,TRUE
+Very Good,63,Female,8,6,6,Yes,No,2,9,Yes,No,No,No,Black,NA
+Very Good,25,Male,2,NA,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,59,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,61,Male,2,9,9,No,NA,3,9,Yes,No,Yes,No,White,NA
+Good,60,Female,3,1,0,No,NA,0,9,Yes,No,Yes,No,Black,NA
+Very Good,39,Male,4,0,NA,Yes,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,48,Female,4,0,NA,No,Yes,1,9,Yes,No,Yes,No,White,FALSE
+Very Good,44,Female,2,9,9,Yes,No,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,48,Male,4,0,NA,No,No,0,8,Yes,No,Yes,No,White,NA
+Very Good,46,Female,4,NA,NA,Yes,Yes,0,8,Yes,No,Yes,No,White,TRUE
+Good,52,Male,1,2,0,No,NA,1,3,No,No,Yes,No,White,TRUE
+Very Good,45,Male,4,4,4,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,62,Female,2,1,1,No,NA,1,9,Yes,No,No,No,White,TRUE
+Fair,41,Female,5,0,NA,Yes,NA,0,7,Yes,No,No,No,Black,FALSE
+Very Good,36,Female,3,1,1,Yes,NA,0,9,Yes,No,Yes,No,White,NA
+Good,71,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Fair,52,Male,4,0,NA,No,NA,0,5,Yes,No,No,No,White,TRUE
+Good,72,Female,1,0,NA,No,NA,0,8,Yes,No,Yes,No,White,TRUE
+Very Good,51,Male,6,2,2,Yes,Yes,0,9,Yes,Yes,Yes,No,White,NA
+Poor,60,Male,1,1,1,Yes,NA,0,9,No,No,No,No,Black,NA
+Very Good,72,Female,2,3,4,No,NA,0,8,Yes,No,Yes,No,White,TRUE
+Good,38,Male,3,3,2,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,67,Male,1,9,9,Yes,NA,0,5,Yes,No,No,No,White,FALSE
+Good,74,Female,5,0,NA,No,No,0,5,Yes,No,No,No,White,TRUE
+Fair,82,Male,1,0,NA,Yes,NA,0,5,Yes,No,No,No,White,TRUE
+Very Good,56,Male,3,9,7,No,NA,0,6,Yes,No,Yes,No,Asian,NA
+Good,33,Male,6,2,2,Yes,No,1,3,Yes,No,No,No,Black,NA
+Very Good,55,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Good,32,Female,4,0,NA,No,No,4,5,Yes,No,NA,No,Asian,FALSE
+Good,49,Male,5,0,NA,Yes,No,0,9,Yes,No,Yes,No,Black,FALSE
+Good,24,Male,4,0,NA,No,NA,0,9,Yes,No,Yes,No,Another race,NA
+Poor,55,Female,2,6,0,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,46,Female,3,2,2,No,No,0,9,Yes,No,No,No,White,TRUE
+Good,58,Female,3,9,0,Yes,NA,1,9,Yes,No,Yes,No,White,TRUE
+Good,75,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,65,Female,2,1,0,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,38,Male,5,9,9,Yes,No,1,9,Yes,No,No,No,Another race,FALSE
+Very Good,67,Male,2,0,NA,No,NA,0,5,Yes,No,Yes,No,Black,FALSE
+Fair,65,Male,2,7,6,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,30,Female,7,4,1,Yes,No,0,9,Yes,No,No,No,White,NA
+Good,79,Female,4,8,0,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,41,Female,5,3,9,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Poor,35,Female,9,0,NA,No,No,1,9,Yes,No,No,No,White,TRUE
+Very Good,80,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,NA
+Good,63,Male,3,5,5,Yes,NA,0,4,Yes,No,Yes,No,White,FALSE
+Good,57,Female,2,8,8,No,NA,0,9,Yes,No,No,No,Black,NA
+Very Good,38,Female,4,0,NA,Yes,Yes,0,9,Yes,No,Yes,No,White,FALSE
+Good,34,Male,2,5,2,No,No,0,9,Yes,No,No,No,Black,NA
+Good,71,Female,3,0,NA,Yes,NA,0,5,Yes,No,No,No,White,NA
+Very Good,36,Female,6,9,9,Yes,Yes,0,9,Yes,No,Yes,No,White,NA
+Very Good,24,Male,2,9,7,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,75,Male,2,3,2,No,NA,1,5,Yes,No,Yes,Yes,NA,TRUE
+Good,29,Male,3,0,NA,Yes,NA,0,4,Yes,No,Yes,No,White,TRUE
+Very Good,76,Male,1,0,NA,No,NA,0,8,Yes,No,No,No,White,TRUE
+Very Good,63,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,57,Female,4,9,0,Yes,Yes,0,9,Yes,No,Yes,No,Black,FALSE
+Good,63,Female,3,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,52,Female,2,1,1,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,63,Male,4,2,0,Yes,NA,0,9,Yes,No,No,No,Black,NA
+Good,44,Male,2,4,4,No,NA,0,5,Yes,No,Yes,No,White,TRUE
+Good,35,Male,4,7,0,Yes,Yes,0,9,Yes,No,No,No,White,TRUE
+Fair,71,Female,1,1,1,No,NA,0,4,Yes,No,No,No,Black,FALSE
+Fair,52,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,77,Male,1,0,NA,Yes,NA,0,9,No,No,No,No,White,FALSE
+Very Good,74,Male,1,0,NA,Yes,NA,0,8,Yes,No,Yes,Yes,NA,FALSE
+Good,62,Male,2,0,NA,No,No,0,9,Yes,No,No,No,White,NA
+Fair,39,Female,3,0,NA,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,57,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,Black,NA
+Good,54,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,Black,FALSE
+Very Good,49,Male,3,0,NA,Yes,NA,1,9,Yes,No,No,No,White,NA
+Very Good,37,Female,5,0,NA,Yes,No,0,9,Yes,No,No,No,White,FALSE
+Very Good,57,Male,2,4,0,No,NA,0,6,Yes,No,No,No,White,TRUE
+Good,55,Male,5,0,NA,Yes,Yes,0,2,Yes,No,Yes,No,White,TRUE
+Good,62,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,NA
+Very Good,31,Male,2,5,5,Yes,NA,0,9,Yes,No,No,No,White,NA
+Good,64,Female,1,2,2,No,NA,0,9,Yes,No,Yes,No,Black,NA
+Very Good,69,Female,1,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Fair,50,Female,2,4,2,No,NA,0,9,Yes,No,No,No,White,NA
+Good,68,Female,2,1,0,No,NA,0,4,Yes,No,Yes,No,White,FALSE
+Good,24,Female,2,9,9,Yes,NA,0,9,Yes,No,No,No,White,NA
+Fair,26,Male,4,2,0,Yes,No,0,9,Yes,No,No,No,Black,FALSE
+Fair,37,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,NA
+Good,43,Male,3,9,9,Yes,No,9,6,Yes,No,Yes,No,Asian,FALSE
+Good,64,Male,4,0,NA,No,No,0,9,Yes,No,Yes,No,White,NA
+Very Good,28,Male,5,2,0,Yes,No,0,5,Yes,No,No,No,White,NA
+Very Good,40,Female,6,0,NA,No,No,0,9,Yes,No,Yes,No,Black,NA
+Fair,32,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Good,50,Female,3,0,NA,No,No,0,9,Yes,No,Yes,No,White,NA
+Very Good,33,Female,4,0,NA,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,34,Female,4,0,NA,No,No,0,9,Yes,No,NA,NA,NA,TRUE
+Very Good,49,Male,4,0,NA,No,No,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,27,Male,2,1,0,No,No,0,5,Yes,No,No,No,White,NA
+Very Good,36,Female,5,0,NA,Yes,No,0,9,Yes,No,Yes,No,Another race,FALSE
+Good,39,Male,2,1,1,No,No,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,53,Male,3,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,NA
+Good,63,Male,3,0,NA,No,NA,3,6,Yes,No,Yes,No,Black,FALSE
+Good,22,Male,3,9,6,No,No,0,9,Yes,No,No,Yes,NA,NA
+Good,54,Female,3,0,NA,Yes,No,NA,9,Yes,No,Yes,No,White,FALSE
+Very Good,46,Male,3,9,0,No,No,0,9,No,No,Yes,No,White,TRUE
+Good,52,Male,4,9,9,No,NA,0,9,Yes,No,No,No,White,TRUE
+Fair,49,Male,2,2,0,Yes,NA,0,3,Yes,No,No,No,White,NA
+Good,51,Male,4,0,NA,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,26,Female,2,2,0,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,53,Male,4,0,NA,No,Yes,0,9,Yes,No,Yes,No,White,NA
+Poor,78,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,58,Male,2,6,5,No,Yes,0,4,Yes,No,No,No,White,TRUE
+Good,57,Female,2,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,48,Female,3,9,0,Yes,No,0,8,Yes,No,Yes,No,Black,FALSE
+NA,24,Male,3,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,41,Female,4,9,9,Yes,No,5,7,Yes,NA,NA,NA,NA,FALSE
+Very Good,46,Male,3,3,3,Yes,No,0,8,Yes,No,Yes,No,White,TRUE
+Very Good,66,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,65,Female,1,4,4,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,46,Female,3,0,NA,No,No,0,9,Yes,No,Yes,No,White,NA
+Good,39,Male,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,25,Male,3,3,3,Yes,NA,2,6,Yes,No,Yes,No,White,NA
+Very Good,66,Female,2,0,NA,No,NA,1,9,Yes,No,Yes,No,White,NA
+Good,49,Male,4,4,0,Yes,No,0,9,Yes,No,Yes,Yes,NA,TRUE
+Very Good,51,Female,9,0,NA,No,No,5,9,Yes,No,Yes,No,Asian,FALSE
+Good,78,Male,2,1,1,Yes,NA,0,8,Yes,No,Yes,No,White,NA
+Very Good,52,Male,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,26,Female,1,9,0,Yes,NA,9,9,Yes,No,Yes,No,White,FALSE
+Good,71,Female,2,1,0,Yes,NA,0,6,Yes,No,No,No,Black,FALSE
+Very Good,30,Female,1,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,58,Female,3,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,66,Female,3,9,4,Yes,Yes,9,9,No,Yes,Yes,Yes,NA,FALSE
+Good,84,Female,3,0,NA,No,NA,0,5,Yes,No,No,No,White,NA
+Good,25,Female,3,9,9,Yes,NA,9,9,Yes,No,No,No,White,NA
+Good,53,Male,4,0,NA,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Fair,18,Female,3,0,NA,Yes,NA,2,NA,Yes,No,No,Yes,NA,FALSE
+Good,71,Male,2,2,2,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,53,Female,2,1,1,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,44,Male,5,1,1,Yes,No,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,55,Female,2,8,3,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,63,Male,2,6,6,Yes,NA,2,9,Yes,No,No,No,White,TRUE
+Good,68,Female,2,0,NA,No,NA,0,5,Yes,No,No,No,White,TRUE
+Fair,37,Male,3,0,NA,Yes,No,0,9,Yes,No,Yes,No,Black,NA
+Very Good,54,Male,1,6,4,No,NA,0,4,Yes,No,Yes,No,White,NA
+Good,26,Male,2,9,6,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,64,Female,1,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Good,63,Female,4,0,NA,Yes,No,0,5,Yes,No,No,No,White,TRUE
+Fair,89,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Fair,75,Male,2,3,3,No,NA,0,6,Yes,No,No,No,White,TRUE
+Fair,63,Male,1,9,0,Yes,NA,0,9,Yes,No,No,No,Black,TRUE
+Fair,73,Female,2,0,NA,No,NA,3,9,Yes,No,No,No,White,NA
+Very Good,83,Female,NA,NA,NA,No,NA,2,2,Yes,No,No,No,White,TRUE
+Good,52,Male,5,4,4,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,37,Female,7,2,0,Yes,No,1,9,Yes,No,No,No,Black,FALSE
+Good,80,Male,1,0,NA,No,NA,0,7,Yes,No,No,No,White,TRUE
+Very Good,69,Male,2,1,0,No,NA,0,9,Yes,No,Yes,No,Black,NA
+Good,73,Female,2,0,NA,Yes,NA,0,6,Yes,No,No,No,White,TRUE
+Good,51,Male,3,3,3,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,71,Male,1,0,NA,No,NA,0,3,Yes,No,Yes,No,White,FALSE
+Good,31,Male,2,0,NA,No,NA,1,4,Yes,No,No,No,Black,NA
+Good,62,Male,2,3,2,Yes,NA,0,9,Yes,No,No,No,Another race,NA
+Good,21,Male,2,2,0,No,NA,3,9,Yes,No,No,No,White,NA
+Good,35,Male,6,0,NA,No,No,0,8,Yes,No,Yes,No,White,TRUE
+Very Good,22,Female,1,9,0,Yes,NA,3,9,Yes,No,Yes,Yes,NA,FALSE
+Very Good,29,Female,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,74,Male,2,0,NA,No,NA,2,9,Yes,No,Yes,No,White,NA
+Good,41,Male,1,1,1,No,NA,0,9,Yes,No,No,No,Black,FALSE
+Fair,18,Female,3,4,4,No,NA,0,9,Yes,No,No,No,White,NA
+Very Good,78,Female,2,3,4,Yes,NA,0,9,Yes,No,No,Yes,NA,NA
+Fair,76,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,71,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,30,Male,2,9,9,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,33,Female,8,0,NA,Yes,No,1,8,Yes,No,Yes,No,White,TRUE
+Very Good,55,Female,2,2,2,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,35,Male,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,33,Female,2,0,NA,No,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,39,Female,2,1,1,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,63,Female,2,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,57,Male,5,5,5,Yes,Yes,0,6,Yes,No,Yes,No,White,TRUE
+Good,34,Male,2,9,9,Yes,NA,9,9,Yes,Yes,No,No,White,FALSE
+Good,39,Male,5,9,6,No,No,0,7,Yes,No,Yes,Yes,NA,NA
+Good,80,Female,4,0,NA,Yes,NA,1,9,Yes,No,No,No,White,TRUE
+Good,62,Female,1,0,NA,NA,NA,0,9,Yes,No,NA,NA,NA,TRUE
+Good,42,Male,4,9,9,Yes,No,0,9,Yes,No,No,No,White,NA
+Good,23,Female,1,1,1,Yes,NA,0,6,Yes,No,Yes,No,White,FALSE
+Very Good,74,Female,1,2,2,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,38,Female,3,9,0,Yes,No,0,9,Yes,Yes,Yes,No,White,TRUE
+Very Good,61,Female,1,0,NA,No,No,0,9,Yes,No,Yes,No,White,NA
+Very Good,32,Male,2,1,0,Yes,NA,0,6,Yes,No,Yes,No,White,FALSE
+Very Good,53,Male,4,1,1,Yes,Yes,0,5,Yes,No,Yes,No,White,TRUE
+Very Good,40,Male,4,0,NA,No,No,2,8,Yes,No,Yes,No,White,FALSE
+Good,47,Male,5,5,5,Yes,No,0,9,Yes,No,Yes,No,NA,TRUE
+Good,65,Male,2,5,0,Yes,NA,0,9,Yes,No,No,No,White,FALSE
+Good,27,Female,3,0,NA,No,NA,0,8,Yes,No,Yes,No,Black,NA
+Very Good,20,Female,4,0,NA,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Good,43,Male,NA,5,5,Yes,NA,7,4,Yes,No,No,No,White,TRUE
+Good,46,Female,5,0,NA,Yes,Yes,0,8,Yes,No,Yes,No,Black,FALSE
+Good,82,Male,1,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,51,Female,3,0,NA,No,No,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,72,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,Another race,FALSE
+Fair,54,Male,3,0,NA,No,NA,0,9,Yes,Yes,No,No,White,TRUE
+Very Good,58,Female,3,6,0,No,NA,0,9,Yes,No,Yes,No,White,NA
+Good,78,Female,1,0,NA,No,NA,0,6,Yes,No,Yes,No,Black,FALSE
+Good,77,Male,3,4,3,Yes,NA,0,5,Yes,No,Yes,No,White,FALSE
+Good,49,Female,2,0,NA,Yes,NA,2,9,Yes,No,Yes,No,Black,FALSE
+Fair,86,Female,3,2,0,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,66,Female,2,0,NA,No,NA,0,9,Yes,Yes,No,No,White,TRUE
+Good,64,Female,2,4,1,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,70,Female,3,0,NA,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Good,63,Female,1,0,NA,No,NA,0,4,Yes,No,No,No,White,NA
+Good,26,Male,2,6,3,Yes,No,0,7,Yes,No,No,Yes,NA,NA
+Poor,74,Female,1,0,NA,No,NA,3,9,Yes,No,No,No,White,NA
+Good,63,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,26,Male,2,7,4,Yes,NA,0,9,Yes,No,No,No,White,NA
+Fair,63,Female,3,1,0,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,57,Male,2,9,9,Yes,NA,0,9,Yes,No,No,No,White,NA
+Very Good,57,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,74,Female,3,0,NA,No,NA,0,9,Yes,No,No,No,White,NA
+Fair,58,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,65,Female,2,3,2,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,43,Male,4,4,4,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Very Good,44,Male,3,9,7,Yes,No,0,3,Yes,No,Yes,No,White,FALSE
+Poor,61,Male,4,0,NA,No,NA,0,0,Yes,No,No,No,White,FALSE
+Good,60,Male,2,9,0,No,NA,9,4,Yes,Yes,No,No,White,NA
+Good,73,Male,2,3,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,26,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Good,30,Female,3,0,NA,No,Yes,0,9,Yes,No,Yes,No,White,FALSE
+Fair,86,Female,1,0,NA,No,NA,0,5,Yes,No,No,No,White,TRUE
+Good,77,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,NA
+Fair,50,Male,2,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,47,Female,6,5,5,No,No,0,9,Yes,No,Yes,No,Black,NA
+Good,34,Female,4,2,2,No,Yes,0,9,Yes,No,Yes,No,White,NA
+Good,47,Male,2,1,0,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,22,Male,2,5,0,No,NA,0,6,Yes,No,No,No,White,TRUE
+Fair,86,Female,2,4,4,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,50,Female,2,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,38,Male,7,1,1,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,42,Male,3,2,2,Yes,Yes,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,32,Female,2,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,46,Male,4,0,NA,Yes,Yes,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,35,Female,5,0,NA,No,No,0,8,Yes,No,No,No,White,TRUE
+Very Good,42,Female,3,1,0,Yes,No,3,9,Yes,No,Yes,No,Black,FALSE
+Good,69,Male,2,0,NA,No,NA,0,6,Yes,No,Yes,No,Black,FALSE
+Good,71,Female,2,0,NA,No,NA,0,7,Yes,No,Yes,No,White,FALSE
+Very Good,79,Female,2,1,0,Yes,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,71,Male,2,9,5,No,NA,5,9,Yes,No,Yes,No,White,TRUE
+Very Good,63,Female,1,2,2,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,56,Female,2,9,7,Yes,NA,5,9,Yes,No,Yes,No,White,TRUE
+Very Good,79,Male,2,1,0,No,NA,0,9,Yes,No,NA,NA,NA,TRUE
+Very Good,75,Male,2,9,6,No,NA,0,NA,NA,NA,NA,NA,NA,TRUE
+Fair,58,Female,4,1,0,No,No,0,9,Yes,No,No,No,White,FALSE
+Good,69,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,21,Male,4,5,6,No,NA,0,8,Yes,No,No,No,Black,NA
+Very Good,52,Male,3,0,NA,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Good,46,Male,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,45,Male,4,4,4,Yes,No,0,9,Yes,No,Yes,No,White,NA
+Very Good,23,Female,6,1,0,Yes,No,0,9,Yes,No,No,No,Black,NA
+Very Good,41,Male,6,1,1,Yes,No,0,5,Yes,No,Yes,No,White,FALSE
+Very Good,69,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,77,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,62,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,57,Female,3,3,3,Yes,No,0,9,Yes,No,No,No,White,NA
+Good,41,Male,3,0,NA,Yes,No,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,35,Female,4,0,NA,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,22,Female,2,1,0,Yes,NA,0,8,Yes,No,No,No,White,NA
+Good,67,Male,NA,0,NA,No,NA,0,4,Yes,No,Yes,No,White,NA
+Good,71,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Fair,59,Male,2,2,2,No,No,0,9,Yes,Yes,No,No,White,TRUE
+Very Good,37,Female,3,1,1,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,55,Male,4,6,6,Yes,Yes,0,9,Yes,No,No,No,White,TRUE
+Very Good,28,Female,1,9,1,Yes,NA,2,9,Yes,No,Yes,No,White,TRUE
+Good,37,Female,4,0,NA,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,55,Female,6,0,NA,Yes,No,0,9,Yes,Yes,No,No,White,NA
+Fair,63,Male,2,2,2,No,NA,0,4,No,No,Yes,No,White,TRUE
+Very Good,27,Male,2,9,9,No,NA,6,9,Yes,No,Yes,No,White,FALSE
+Good,42,Female,2,1,6,Yes,No,0,9,Yes,No,No,No,White,FALSE
+Poor,65,Male,1,2,0,Yes,NA,0,3,Yes,No,Yes,No,Another race,NA
+Good,35,Female,1,1,0,Yes,NA,0,4,Yes,No,Yes,No,White,NA
+Very Good,46,Male,3,0,NA,Yes,No,0,5,Yes,No,Yes,No,Black,FALSE
+Very Good,43,Male,4,9,9,Yes,No,2,9,Yes,No,No,No,White,TRUE
+Very Good,40,Male,4,4,2,Yes,Yes,0,3,Yes,No,Yes,No,White,TRUE
+Good,58,Male,4,4,4,Yes,No,0,6,Yes,No,No,No,White,NA
+Very Good,64,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,44,Male,2,9,9,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,50,Male,4,0,NA,No,Yes,0,6,Yes,No,Yes,No,White,FALSE
+Good,61,Male,3,2,1,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Fair,72,Female,2,3,3,No,NA,1,9,Yes,No,No,No,White,NA
+Very Good,30,Male,3,9,9,Yes,No,0,6,Yes,No,No,No,White,NA
+Good,33,Female,4,0,NA,Yes,No,1,9,Yes,No,No,Yes,NA,NA
+Very Good,61,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,58,Female,2,3,1,Yes,NA,0,NA,NA,NA,NA,NA,NA,FALSE
+Fair,50,Female,4,0,NA,Yes,NA,0,9,Yes,No,No,No,White,NA
+Very Good,66,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,73,Male,2,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,48,Male,3,0,NA,No,NA,0,9,Yes,No,No,No,Another race,NA
+Fair,74,Male,1,0,NA,No,NA,0,6,No,No,No,No,White,TRUE
+Fair,70,Male,1,5,6,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,53,Male,4,0,NA,Yes,NA,0,9,Yes,No,Yes,No,NA,TRUE
+Good,59,Female,2,5,2,Yes,NA,0,9,Yes,No,No,No,White,FALSE
+Good,41,Female,4,3,3,No,No,0,9,Yes,No,No,No,White,NA
+Good,21,Male,4,0,NA,Yes,No,0,9,Yes,No,No,No,White,NA
+Good,21,Male,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Good,42,Male,4,2,2,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,52,Male,3,9,9,Yes,NA,5,9,Yes,No,No,No,White,TRUE
+Good,91,Male,3,1,2,No,NA,0,6,Yes,No,Yes,No,White,FALSE
+Very Good,25,Male,1,1,0,Yes,NA,0,9,No,No,No,No,White,TRUE
+Very Good,52,Female,4,0,NA,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Very Good,39,Female,4,3,3,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Good,78,Female,2,1,0,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,74,Male,2,4,4,No,NA,0,6,Yes,No,Yes,No,White,TRUE
+Good,55,Male,2,1,7,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,84,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,42,Male,4,0,NA,Yes,No,0,9,Yes,No,Yes,No,White,FALSE
+Good,46,Female,5,2,1,Yes,No,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,45,Male,2,7,6,Yes,NA,0,9,Yes,No,No,No,White,NA
+Good,61,Male,1,1,1,No,NA,0,1,Yes,No,Yes,No,White,FALSE
+Good,23,Male,3,7,0,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,59,Male,1,9,9,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,59,Male,2,9,9,Yes,NA,0,5,Yes,No,Yes,No,White,TRUE
+Good,60,Male,4,5,1,Yes,NA,0,9,Yes,No,No,No,Black,FALSE
+Good,91,Male,1,0,NA,No,NA,0,6,Yes,No,Yes,No,White,TRUE
+Good,92,Male,9,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Fair,69,Female,2,0,NA,No,NA,0,5,Yes,No,No,No,White,TRUE
+Very Good,81,Female,2,4,4,No,NA,1,9,Yes,No,No,No,White,TRUE
+Fair,56,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,29,Male,3,0,NA,No,No,0,7,Yes,No,No,No,White,TRUE
+Fair,81,Male,1,1,0,No,NA,0,9,Yes,No,No,No,White,NA
+Fair,54,Male,4,9,9,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,32,Male,4,9,7,Yes,Yes,9,9,Yes,No,No,No,White,NA
+Fair,73,Female,1,0,NA,No,NA,0,5,Yes,No,Yes,No,White,NA
+Good,34,Male,4,0,NA,Yes,No,0,4,Yes,No,Yes,No,White,TRUE
+Poor,75,Female,1,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,26,Male,2,9,0,Yes,No,9,9,Yes,No,Yes,No,Another race,NA
+Very Good,39,Female,1,0,NA,No,NA,0,9,Yes,No,Yes,No,Black,FALSE
+Very Good,41,Male,3,0,NA,No,No,0,9,Yes,No,Yes,No,White,NA
+Very Good,78,Male,1,2,1,No,NA,0,NA,Yes,No,Yes,No,White,FALSE
+Good,74,Male,2,0,NA,No,NA,0,3,Yes,No,Yes,No,White,FALSE
+Good,52,Male,4,4,4,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,72,Female,2,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,51,Female,3,0,NA,Yes,NA,5,9,No,No,Yes,No,White,TRUE
+Good,44,Female,6,1,0,No,No,0,9,Yes,No,No,No,White,NA
+Very Good,83,Female,2,0,NA,No,NA,0,6,Yes,No,No,No,White,FALSE
+Very Good,76,Male,2,0,NA,No,NA,0,4,Yes,No,No,No,White,FALSE
+Very Good,64,Male,3,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,71,Male,2,0,NA,Yes,NA,0,9,Yes,No,NA,NA,NA,TRUE
+Very Good,34,Male,5,2,2,No,No,0,9,Yes,No,No,No,White,TRUE
+Good,45,Male,4,1,1,No,Yes,0,9,Yes,No,Yes,No,Asian,NA
+Good,56,Male,3,9,9,Yes,NA,9,7,Yes,No,Yes,No,White,TRUE
+Very Good,35,Male,7,7,5,Yes,No,0,9,Yes,No,NA,NA,NA,TRUE
+Good,53,Female,1,0,NA,Yes,NA,NA,9,Yes,No,No,No,Black,NA
+Fair,67,Male,2,1,1,No,NA,0,9,Yes,No,No,No,White,TRUE
+Very Good,61,Female,7,0,NA,Yes,No,0,9,Yes,No,No,No,Black,FALSE
+Good,68,Male,2,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,67,Female,8,0,NA,No,Yes,0,7,Yes,No,No,No,Black,NA
+Very Good,51,Male,2,9,9,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Fair,90,Female,2,0,NA,No,NA,0,0,Yes,No,No,No,White,TRUE
+Very Good,45,Male,2,1,1,Yes,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,48,Female,5,2,0,Yes,No,0,8,Yes,No,No,No,White,TRUE
+Good,37,Female,3,3,3,Yes,No,0,9,Yes,No,No,No,White,FALSE
+Good,64,Female,2,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,44,Female,4,0,NA,Yes,No,0,9,Yes,No,No,No,White,TRUE
+Good,53,Male,2,9,9,Yes,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,37,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Fair,41,Male,3,5,5,Yes,No,1,9,Yes,Yes,No,No,White,TRUE
+Good,26,Male,3,0,NA,Yes,NA,0,7,Yes,No,No,Yes,NA,FALSE
+Good,65,Male,1,2,2,No,NA,0,9,Yes,No,No,No,White,NA
+Fair,33,Male,2,9,0,Yes,NA,0,9,Yes,No,No,No,White,NA
+Good,58,Male,2,0,NA,Yes,NA,0,5,Yes,No,Yes,Yes,NA,TRUE
+Very Good,62,Female,3,5,5,No,NA,0,6,Yes,No,No,No,Black,FALSE
+Fair,75,Male,2,4,0,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,66,Male,2,9,9,Yes,NA,0,9,Yes,No,Yes,No,White,NA
+Good,51,Male,2,1,1,Yes,NA,0,8,Yes,No,Yes,No,White,NA
+Poor,83,Male,1,1,0,No,NA,0,9,Yes,No,Yes,No,Another race,FALSE
+Very Good,25,Male,3,5,5,Yes,NA,0,8,Yes,No,No,Yes,NA,FALSE
+Fair,69,Female,2,6,6,Yes,NA,2,9,No,No,No,No,White,TRUE
+Very Good,35,Female,6,9,0,No,No,3,9,Yes,No,Yes,No,White,NA
+Good,41,Male,3,0,NA,Yes,No,0,9,Yes,No,No,No,Another race,TRUE
+Fair,56,Female,1,1,1,Yes,NA,0,9,Yes,No,Yes,No,Another race,NA
+Poor,50,Female,6,0,NA,No,No,NA,9,Yes,No,Yes,No,Another race,NA
+Very Good,57,Female,3,0,NA,Yes,No,0,5,Yes,No,Yes,No,White,NA
+Fair,55,Female,3,0,NA,No,NA,2,9,Yes,No,Yes,No,Black,NA
+Good,45,Female,4,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,40,Male,1,9,5,Yes,NA,0,7,Yes,No,No,No,Black,NA
+Very Good,51,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+Very Good,33,Male,5,9,5,Yes,No,5,9,Yes,No,No,No,White,TRUE
+Very Good,23,Female,NA,2,0,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,22,Male,3,3,3,Yes,NA,0,6,Yes,No,No,No,Black,NA
+Very Good,33,Male,4,1,1,Yes,No,9,7,Yes,No,No,No,White,TRUE
+Fair,28,Male,5,7,0,Yes,Yes,0,9,Yes,No,No,Yes,NA,TRUE
+Fair,57,Male,2,0,NA,Yes,NA,0,9,Yes,No,Yes,No,White,TRUE
+Poor,76,Female,2,0,NA,Yes,No,0,8,Yes,No,NA,NA,NA,TRUE
+Good,25,Male,4,9,8,Yes,NA,0,9,Yes,No,No,No,White,NA
+Good,67,Male,2,3,3,No,NA,0,6,Yes,No,No,No,Black,FALSE
+Poor,83,Female,1,0,NA,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Very Good,31,Female,4,0,NA,No,No,0,4,Yes,No,No,No,White,NA
+Good,42,Female,3,2,2,No,Yes,4,9,Yes,No,No,No,White,FALSE
+Fair,67,Male,1,0,NA,No,No,0,9,No,No,No,No,Black,NA
+Good,70,Male,1,0,NA,No,NA,0,5,Yes,No,No,No,Black,FALSE
+Fair,66,Female,6,1,1,Yes,No,2,9,Yes,No,No,No,White,TRUE
+Good,68,Male,2,2,2,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,39,Male,4,9,9,No,Yes,0,1,Yes,Unsure,No,Yes,NA,NA
+Very Good,52,Male,4,0,NA,No,No,0,4,Yes,No,Yes,Yes,NA,TRUE
+Good,72,Male,2,3,2,No,NA,0,9,Yes,No,No,No,Black,FALSE
+Very Good,45,Male,4,0,NA,No,No,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,20,Male,4,0,NA,No,No,0,9,Yes,No,No,No,Black,NA
+Good,77,Female,2,1,0,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,47,Male,4,0,NA,No,No,0,6,Yes,No,Yes,No,Asian,FALSE
+Very Good,24,Male,3,1,0,Yes,NA,0,5,Yes,No,Yes,No,White,TRUE
+Good,37,Male,4,0,NA,No,NA,0,5,Yes,No,Yes,No,NA,FALSE
+Very Good,57,Male,2,0,NA,No,NA,1,9,Yes,No,Yes,No,White,FALSE
+Good,55,Female,4,9,9,Yes,NA,2,9,Yes,No,Yes,No,White,TRUE
+Very Good,60,Female,2,0,NA,No,NA,0,7,Yes,No,Yes,No,White,FALSE
+Fair,75,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,22,Female,4,3,3,Yes,NA,0,9,Yes,No,No,No,White,FALSE
+Fair,76,Male,1,2,2,No,NA,0,1,Yes,No,No,No,White,TRUE
+Good,37,Male,4,0,NA,Yes,No,0,7,Yes,No,Yes,No,Black,FALSE
+Very Good,62,Female,2,0,NA,No,NA,0,9,Yes,No,No,No,White,FALSE
+Good,71,Male,2,1,0,No,NA,0,9,Yes,No,No,No,Black,FALSE
+Good,84,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,Another race,TRUE
+Very Good,51,Male,1,0,NA,No,NA,0,9,Yes,Yes,No,No,Another race,NA
+Good,73,Female,2,1,0,Yes,NA,0,9,Yes,Yes,No,No,White,NA
+Good,66,Male,2,2,2,No,NA,0,9,Yes,No,No,No,White,FALSE
+Very Good,60,Female,1,4,1,No,NA,0,5,Yes,No,Yes,No,White,FALSE
+Very Good,41,Male,4,0,NA,No,No,0,9,Yes,No,Yes,No,Asian,NA
+Very Good,21,Female,5,0,NA,Yes,No,0,8,Yes,No,No,No,Asian,NA
+Very Good,29,Male,1,9,8,Yes,NA,0,9,Yes,No,No,No,White,NA
+Good,50,Male,3,0,NA,Yes,NA,0,9,No,No,No,No,Black,NA
+Good,45,Female,4,0,NA,No,No,0,9,Yes,No,Yes,No,White,TRUE
+Fair,69,Female,1,4,4,No,NA,0,8,Yes,No,No,No,White,TRUE
+Poor,50,Male,9,NA,NA,Unsure,Unsure,NA,NA,NA,NA,NA,NA,NA,FALSE
+Good,47,Female,4,0,NA,Yes,No,0,9,Yes,No,Yes,Yes,NA,NA
+Good,83,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Good,48,Female,4,4,3,No,No,0,9,Yes,No,Yes,No,White,FALSE
+Fair,71,Female,4,1,0,No,NA,4,5,Yes,No,No,No,Another race,NA
+Fair,53,Female,4,0,NA,No,No,0,9,Yes,No,No,No,Black,FALSE
+Good,46,Male,1,0,NA,No,No,0,9,Yes,No,No,No,Black,NA
+Poor,67,Female,1,0,NA,No,NA,0,8,No,No,No,No,Black,FALSE
+Good,59,Female,4,3,3,Yes,NA,0,6,Yes,No,Yes,No,Black,NA
+Poor,84,Female,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,31,Male,4,0,NA,No,No,0,5,Yes,No,Yes,No,Black,TRUE
+Good,39,Male,2,0,NA,No,NA,0,7,Yes,No,Yes,No,Asian,FALSE
+Fair,72,Male,1,0,NA,No,NA,0,8,Yes,No,Yes,No,White,FALSE
+Good,38,Male,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,43,Female,2,9,3,Yes,NA,1,9,Yes,No,Yes,Yes,NA,NA
+Very Good,67,Male,1,0,NA,No,NA,2,5,Yes,No,Yes,No,White,NA
+Fair,41,Female,7,3,1,Yes,Yes,0,9,Yes,No,No,No,White,FALSE
+Fair,72,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+Very Good,69,Female,2,1,1,No,NA,0,9,Yes,No,Yes,No,White,FALSE
+Good,49,Male,4,9,9,No,No,0,9,Yes,No,No,No,Black,FALSE
+Good,64,Female,3,0,NA,Yes,NA,1,9,Yes,No,No,No,White,NA
+Good,54,Female,2,0,NA,Yes,NA,0,9,Yes,No,Yes,No,Another race,FALSE
+Very Good,56,Female,4,1,0,Yes,Yes,0,9,Yes,No,No,No,Another race,FALSE
+Good,26,Male,3,0,NA,No,NA,0,4,Yes,No,Yes,Yes,NA,NA
+Good,40,Female,5,0,NA,No,No,1,9,Yes,No,Yes,No,White,TRUE
+Fair,73,Male,1,5,0,No,NA,0,1,Yes,No,No,No,White,TRUE
+Very Good,44,Female,4,1,1,Yes,No,0,9,Yes,No,Yes,No,White,NA
+Good,37,Female,6,0,NA,Yes,No,0,9,Yes,No,Yes,No,White,TRUE
+Good,35,Male,2,1,1,Yes,NA,0,5,Yes,No,No,No,White,TRUE
+Poor,40,Male,1,0,NA,Yes,NA,0,9,Yes,No,No,Yes,NA,NA
+Good,49,Male,2,0,NA,Yes,NA,0,9,Yes,No,No,No,White,TRUE
+Good,29,Male,NA,0,NA,No,NA,0,9,Yes,No,Yes,No,White,NA
+Very Good,78,Male,4,0,NA,No,NA,0,9,Yes,No,No,No,White,TRUE
+Good,50,Female,2,0,NA,No,NA,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,55,Male,5,9,9,No,No,2,9,Yes,No,Yes,No,White,NA
+Good,58,Female,2,1,1,Yes,NA,0,9,Yes,No,No,No,White,NA
+Very Good,42,Female,4,9,5,No,No,0,9,Yes,No,Yes,No,White,TRUE
+Very Good,39,Female,2,0,NA,Yes,NA,0,9,Yes,No,Yes,No,Black,NA
+Very Good,22,Female,3,0,NA,Yes,No,0,3,Yes,No,No,No,Black,NA
+Very Good,59,Female,3,0,NA,No,NA,1,9,Yes,No,No,No,White,TRUE
